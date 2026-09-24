@@ -1,0 +1,5 @@
+{
+  "screens": 484,
+  "unchangedScreenHashes": 484,
+  "change": "Move the mobile page first and clear stale FIG page order keys so the editor deep link finds its target on the current page."
+}

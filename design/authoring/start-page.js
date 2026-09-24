@@ -1,0 +1,1 @@
+const page=figma.root.children.find(p=>p.name==="01 · Mobil · dikey");figma.root.insertChild(0,page);for(const p of figma.root.children){const n=figma.graph.getNode(p.id);figma.graph.updateNode(p.id,{source:{...n.source,orderKey:undefined}});}figma.currentPage=page;return page.name;

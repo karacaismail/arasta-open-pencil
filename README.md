@@ -43,7 +43,7 @@ python3 web/tools/viewer.py
 python3 web/tools/export_frontend.py
 ```
 
-Tasarımı OpenPencil’de `design/arasta.fig` üzerinden düzenleyin. `design/authoring/` içindeki programlar üretimde kullanılan native API çağrılarıdır; araç 0.15.1 kaynak ağacı, Bun, CanvasKit fontları ve `/work/repo` çıktı dizini olan Linux worker ortamını varsayar. İşlem sırası `first` (ilk 320 checkpoint), boş belgeden `round2`, `layout-canonical`, `finish-with-qr`, `final-fixes`, `replace-rows`, `chart-fix`, `qr-fix`, `state-library`, `state-focus-fix`, `visual-fixes`; ardından `project`, `audit`, `export-evidence`. Hiçbir aşama çizilmiş bir SVG/PNG/HTML tasarımını içe aktarmaz.
+Tasarımı OpenPencil’de `design/arasta.fig` üzerinden düzenleyin. `design/authoring/` içindeki programlar üretimde kullanılan native API çağrılarıdır; araç 0.15.1 kaynak ağacı, Bun, CanvasKit fontları ve `/work/repo` çıktı dizini olan Linux worker ortamını varsayar. İşlem sırası `first` (ilk 320 checkpoint), boş belgeden `round2`, `layout-canonical`, `finish-with-qr`, `final-fixes`, `replace-rows`, `chart-fix`, `qr-fix`, `state-library`, `state-focus-fix`, `visual-fixes`, `start-page`; ardından `project`, `audit`, `export-evidence`. Hiçbir aşama çizilmiş bir SVG/PNG/HTML tasarımını içe aktarmaz.
 
 ## Ölçüm sınırı ve köken
 

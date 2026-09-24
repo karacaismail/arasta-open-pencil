@@ -1,0 +1,2591 @@
+{
+  "timestamp": "2026-09-24T20:41:41.642035+00:00",
+  "base": "https://karacaismail.github.io/arasta-open-pencil/",
+  "sourceBranch": "main",
+  "sourcePath": "/docs",
+  "checked": 516,
+  "passed": 516,
+  "durationSeconds": 22.19,
+  "results": [
+    {
+      "path": "",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "rapor/",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "masaustu/index.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "masaustu/2560/index.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "masaustu/1920/index.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tv/index.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tv/4k/index.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "buyuk-ekran/index.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "buyuk-ekran/3840/index.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/index.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/390/index.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/430/index.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/360/index.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/320/index.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/375/index.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/index.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/1366/index.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/960/index.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/1024/index.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/index.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1728/index.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1280/index.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1440/index.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/index.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/768/index.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/600/index.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/1024/index.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/index.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/844/index.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/667/index.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/932/index.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/480/index.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/320/ana-sayfa.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/320/kategoriler.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/320/arama.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/320/urun.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/320/karsilastirma.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/320/tedarikciler.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/320/magaza.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/320/flash.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/320/teklif-iste.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/320/teklif-karsilastir.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/320/sepet.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/320/odeme.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/320/siparis.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/320/mesajlar.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/320/panel.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/320/giris.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/320/kayit.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/320/guvence.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/320/tedarikci-ol.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/320/yardim.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/320/hakkimizda.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/320/durumlar.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/360/ana-sayfa.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/360/kategoriler.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/360/arama.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/360/urun.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/360/karsilastirma.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/360/tedarikciler.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/360/magaza.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/360/flash.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/360/teklif-iste.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/360/teklif-karsilastir.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/360/sepet.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/360/odeme.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/360/siparis.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/360/mesajlar.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/360/panel.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/360/giris.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/360/kayit.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/360/guvence.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/360/tedarikci-ol.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/360/yardim.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/360/hakkimizda.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/360/durumlar.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/375/ana-sayfa.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/375/kategoriler.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/375/arama.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/375/urun.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/375/karsilastirma.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/375/tedarikciler.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/375/magaza.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/375/flash.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/375/teklif-iste.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/375/teklif-karsilastir.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/375/sepet.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/375/odeme.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/375/siparis.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/375/mesajlar.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/375/panel.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/375/giris.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/375/kayit.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/375/guvence.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/375/tedarikci-ol.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/375/yardim.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/375/hakkimizda.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/375/durumlar.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/390/ana-sayfa.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/390/kategoriler.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/390/arama.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/390/urun.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/390/karsilastirma.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/390/tedarikciler.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/390/magaza.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/390/flash.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/390/teklif-iste.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/390/teklif-karsilastir.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/390/sepet.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/390/odeme.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/390/siparis.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/390/mesajlar.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/390/panel.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/390/giris.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/390/kayit.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/390/guvence.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/390/tedarikci-ol.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/390/yardim.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/390/hakkimizda.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/390/durumlar.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/430/ana-sayfa.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/430/kategoriler.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/430/arama.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/430/urun.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/430/karsilastirma.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/430/tedarikciler.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/430/magaza.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/430/flash.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/430/teklif-iste.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/430/teklif-karsilastir.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/430/sepet.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/430/odeme.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/430/siparis.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/430/mesajlar.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/430/panel.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/430/giris.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/430/kayit.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/430/guvence.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/430/tedarikci-ol.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/430/yardim.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/430/hakkimizda.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-dikey/430/durumlar.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/480/ana-sayfa.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/480/kategoriler.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/480/arama.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/480/urun.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/480/karsilastirma.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/480/tedarikciler.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/480/magaza.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/480/flash.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/480/teklif-iste.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/480/teklif-karsilastir.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/480/sepet.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/480/odeme.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/480/siparis.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/480/mesajlar.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/480/panel.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/480/giris.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/480/kayit.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/480/guvence.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/480/tedarikci-ol.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/480/yardim.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/480/hakkimizda.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/480/durumlar.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/667/ana-sayfa.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/667/kategoriler.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/667/arama.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/667/urun.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/667/karsilastirma.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/667/tedarikciler.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/667/magaza.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/667/flash.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/667/teklif-iste.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/667/teklif-karsilastir.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/667/sepet.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/667/odeme.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/667/siparis.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/667/mesajlar.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/667/panel.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/667/giris.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/667/kayit.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/667/guvence.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/667/tedarikci-ol.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/667/yardim.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/667/hakkimizda.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/667/durumlar.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/844/ana-sayfa.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/844/kategoriler.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/844/arama.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/844/urun.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/844/karsilastirma.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/844/tedarikciler.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/844/magaza.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/844/flash.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/844/teklif-iste.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/844/teklif-karsilastir.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/844/sepet.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/844/odeme.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/844/siparis.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/844/mesajlar.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/844/panel.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/844/giris.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/844/kayit.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/844/guvence.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/844/tedarikci-ol.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/844/yardim.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/844/hakkimizda.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/844/durumlar.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/932/ana-sayfa.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/932/kategoriler.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/932/arama.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/932/urun.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/932/karsilastirma.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/932/tedarikciler.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/932/magaza.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/932/flash.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/932/teklif-iste.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/932/teklif-karsilastir.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/932/sepet.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/932/odeme.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/932/siparis.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/932/mesajlar.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/932/panel.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/932/giris.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/932/kayit.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/932/guvence.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/932/tedarikci-ol.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/932/yardim.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/932/hakkimizda.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "mobil-yatay/932/durumlar.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/600/ana-sayfa.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/600/kategoriler.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/600/arama.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/600/urun.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/600/karsilastirma.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/600/tedarikciler.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/600/magaza.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/600/flash.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/600/teklif-iste.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/600/teklif-karsilastir.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/600/sepet.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/600/odeme.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/600/siparis.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/600/mesajlar.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/600/panel.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/600/giris.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/600/kayit.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/600/guvence.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/600/tedarikci-ol.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/600/yardim.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/600/hakkimizda.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/600/durumlar.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/768/ana-sayfa.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/768/kategoriler.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/768/arama.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/768/urun.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/768/karsilastirma.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/768/tedarikciler.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/768/magaza.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/768/flash.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/768/teklif-iste.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/768/teklif-karsilastir.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/768/sepet.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/768/odeme.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/768/siparis.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/768/mesajlar.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/768/panel.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/768/giris.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/768/kayit.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/768/guvence.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/768/tedarikci-ol.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/768/yardim.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/768/hakkimizda.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/768/durumlar.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/1024/ana-sayfa.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/1024/kategoriler.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/1024/arama.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/1024/urun.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/1024/karsilastirma.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/1024/tedarikciler.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/1024/magaza.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/1024/flash.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/1024/teklif-iste.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/1024/teklif-karsilastir.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/1024/sepet.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/1024/odeme.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/1024/siparis.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/1024/mesajlar.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/1024/panel.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/1024/giris.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/1024/kayit.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/1024/guvence.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/1024/tedarikci-ol.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/1024/yardim.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/1024/hakkimizda.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-dikey/1024/durumlar.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/960/ana-sayfa.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/960/kategoriler.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/960/arama.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/960/urun.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/960/karsilastirma.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/960/tedarikciler.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/960/magaza.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/960/flash.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/960/teklif-iste.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/960/teklif-karsilastir.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/960/sepet.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/960/odeme.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/960/siparis.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/960/mesajlar.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/960/panel.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/960/giris.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/960/kayit.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/960/guvence.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/960/tedarikci-ol.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/960/yardim.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/960/hakkimizda.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/960/durumlar.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/1024/ana-sayfa.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/1024/kategoriler.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/1024/arama.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/1024/urun.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/1024/karsilastirma.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/1024/tedarikciler.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/1024/magaza.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/1024/flash.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/1024/teklif-iste.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/1024/teklif-karsilastir.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/1024/sepet.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/1024/odeme.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/1024/siparis.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/1024/mesajlar.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/1024/panel.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/1024/giris.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/1024/kayit.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/1024/guvence.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/1024/tedarikci-ol.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/1024/yardim.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/1024/hakkimizda.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/1024/durumlar.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/1366/ana-sayfa.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/1366/kategoriler.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/1366/arama.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/1366/urun.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/1366/karsilastirma.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/1366/tedarikciler.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/1366/magaza.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/1366/flash.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/1366/teklif-iste.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/1366/teklif-karsilastir.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/1366/sepet.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/1366/odeme.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/1366/siparis.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/1366/mesajlar.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/1366/panel.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/1366/giris.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/1366/kayit.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/1366/guvence.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/1366/tedarikci-ol.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/1366/yardim.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/1366/hakkimizda.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tablet-yatay/1366/durumlar.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1280/ana-sayfa.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1280/kategoriler.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1280/arama.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1280/urun.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1280/karsilastirma.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1280/tedarikciler.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1280/magaza.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1280/flash.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1280/teklif-iste.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1280/teklif-karsilastir.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1280/sepet.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1280/odeme.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1280/siparis.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1280/mesajlar.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1280/panel.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1280/giris.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1280/kayit.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1280/guvence.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1280/tedarikci-ol.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1280/yardim.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1280/hakkimizda.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1280/durumlar.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1440/ana-sayfa.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1440/kategoriler.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1440/arama.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1440/urun.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1440/karsilastirma.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1440/tedarikciler.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1440/magaza.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1440/flash.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1440/teklif-iste.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1440/teklif-karsilastir.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1440/sepet.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1440/odeme.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1440/siparis.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1440/mesajlar.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1440/panel.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1440/giris.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1440/kayit.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1440/guvence.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1440/tedarikci-ol.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1440/yardim.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1440/hakkimizda.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1440/durumlar.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1728/ana-sayfa.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1728/kategoriler.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1728/arama.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1728/urun.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1728/karsilastirma.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1728/tedarikciler.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1728/magaza.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1728/flash.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1728/teklif-iste.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1728/teklif-karsilastir.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1728/sepet.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1728/odeme.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1728/siparis.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1728/mesajlar.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1728/panel.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1728/giris.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1728/kayit.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1728/guvence.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1728/tedarikci-ol.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1728/yardim.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1728/hakkimizda.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "laptop/1728/durumlar.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "masaustu/1920/ana-sayfa.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "masaustu/1920/kategoriler.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "masaustu/1920/arama.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "masaustu/1920/urun.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "masaustu/1920/karsilastirma.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "masaustu/1920/tedarikciler.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "masaustu/1920/magaza.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "masaustu/1920/flash.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "masaustu/1920/teklif-iste.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "masaustu/1920/teklif-karsilastir.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "masaustu/1920/sepet.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "masaustu/1920/odeme.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "masaustu/1920/siparis.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "masaustu/1920/mesajlar.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "masaustu/1920/panel.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "masaustu/1920/giris.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "masaustu/1920/kayit.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "masaustu/1920/guvence.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "masaustu/1920/tedarikci-ol.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "masaustu/1920/yardim.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "masaustu/1920/hakkimizda.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "masaustu/1920/durumlar.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "masaustu/2560/ana-sayfa.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "masaustu/2560/kategoriler.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "masaustu/2560/arama.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "masaustu/2560/urun.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "masaustu/2560/karsilastirma.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "masaustu/2560/tedarikciler.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "masaustu/2560/magaza.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "masaustu/2560/flash.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "masaustu/2560/teklif-iste.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "masaustu/2560/teklif-karsilastir.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "masaustu/2560/sepet.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "masaustu/2560/odeme.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "masaustu/2560/siparis.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "masaustu/2560/mesajlar.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "masaustu/2560/panel.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "masaustu/2560/giris.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "masaustu/2560/kayit.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "masaustu/2560/guvence.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "masaustu/2560/tedarikci-ol.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "masaustu/2560/yardim.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "masaustu/2560/hakkimizda.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "masaustu/2560/durumlar.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "buyuk-ekran/3840/ana-sayfa.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "buyuk-ekran/3840/kategoriler.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "buyuk-ekran/3840/arama.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "buyuk-ekran/3840/urun.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "buyuk-ekran/3840/karsilastirma.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "buyuk-ekran/3840/tedarikciler.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "buyuk-ekran/3840/magaza.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "buyuk-ekran/3840/flash.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "buyuk-ekran/3840/teklif-iste.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "buyuk-ekran/3840/teklif-karsilastir.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "buyuk-ekran/3840/sepet.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "buyuk-ekran/3840/odeme.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "buyuk-ekran/3840/siparis.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "buyuk-ekran/3840/mesajlar.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "buyuk-ekran/3840/panel.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "buyuk-ekran/3840/giris.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "buyuk-ekran/3840/kayit.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "buyuk-ekran/3840/guvence.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "buyuk-ekran/3840/tedarikci-ol.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "buyuk-ekran/3840/yardim.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "buyuk-ekran/3840/hakkimizda.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "buyuk-ekran/3840/durumlar.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tv/4k/ana-sayfa.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tv/4k/kategoriler.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tv/4k/arama.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tv/4k/urun.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tv/4k/karsilastirma.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tv/4k/tedarikciler.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tv/4k/magaza.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tv/4k/flash.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tv/4k/teklif-iste.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tv/4k/teklif-karsilastir.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tv/4k/sepet.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tv/4k/odeme.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tv/4k/siparis.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tv/4k/mesajlar.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tv/4k/panel.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tv/4k/giris.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tv/4k/kayit.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tv/4k/guvence.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tv/4k/tedarikci-ol.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tv/4k/yardim.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tv/4k/hakkimizda.html",
+      "status": 200,
+      "html": true
+    },
+    {
+      "path": "tv/4k/durumlar.html",
+      "status": 200,
+      "html": true
+    }
+  ]
+}
