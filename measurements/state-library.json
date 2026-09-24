@@ -1,0 +1,229 @@
+{
+  "groups": [
+    {
+      "name": "Button/phone",
+      "variants": 24
+    },
+    {
+      "name": "Checkbox/phone",
+      "variants": 9
+    },
+    {
+      "name": "Radio/phone",
+      "variants": 6
+    },
+    {
+      "name": "Switch/phone",
+      "variants": 6
+    },
+    {
+      "name": "Input/phone",
+      "variants": 5
+    },
+    {
+      "name": "Select/phone",
+      "variants": 5
+    },
+    {
+      "name": "Textarea/phone",
+      "variants": 5
+    },
+    {
+      "name": "Button/phoneL",
+      "variants": 24
+    },
+    {
+      "name": "Checkbox/phoneL",
+      "variants": 9
+    },
+    {
+      "name": "Radio/phoneL",
+      "variants": 6
+    },
+    {
+      "name": "Switch/phoneL",
+      "variants": 6
+    },
+    {
+      "name": "Input/phoneL",
+      "variants": 5
+    },
+    {
+      "name": "Select/phoneL",
+      "variants": 5
+    },
+    {
+      "name": "Textarea/phoneL",
+      "variants": 5
+    },
+    {
+      "name": "Button/tablet",
+      "variants": 24
+    },
+    {
+      "name": "Checkbox/tablet",
+      "variants": 9
+    },
+    {
+      "name": "Radio/tablet",
+      "variants": 6
+    },
+    {
+      "name": "Switch/tablet",
+      "variants": 6
+    },
+    {
+      "name": "Input/tablet",
+      "variants": 5
+    },
+    {
+      "name": "Select/tablet",
+      "variants": 5
+    },
+    {
+      "name": "Textarea/tablet",
+      "variants": 5
+    },
+    {
+      "name": "Button/tabletL",
+      "variants": 24
+    },
+    {
+      "name": "Checkbox/tabletL",
+      "variants": 9
+    },
+    {
+      "name": "Radio/tabletL",
+      "variants": 6
+    },
+    {
+      "name": "Switch/tabletL",
+      "variants": 6
+    },
+    {
+      "name": "Input/tabletL",
+      "variants": 5
+    },
+    {
+      "name": "Select/tabletL",
+      "variants": 5
+    },
+    {
+      "name": "Textarea/tabletL",
+      "variants": 5
+    },
+    {
+      "name": "Button/desktop",
+      "variants": 24
+    },
+    {
+      "name": "Checkbox/desktop",
+      "variants": 9
+    },
+    {
+      "name": "Radio/desktop",
+      "variants": 6
+    },
+    {
+      "name": "Switch/desktop",
+      "variants": 6
+    },
+    {
+      "name": "Input/desktop",
+      "variants": 5
+    },
+    {
+      "name": "Select/desktop",
+      "variants": 5
+    },
+    {
+      "name": "Textarea/desktop",
+      "variants": 5
+    },
+    {
+      "name": "Button/wide",
+      "variants": 24
+    },
+    {
+      "name": "Checkbox/wide",
+      "variants": 9
+    },
+    {
+      "name": "Radio/wide",
+      "variants": 6
+    },
+    {
+      "name": "Switch/wide",
+      "variants": 6
+    },
+    {
+      "name": "Input/wide",
+      "variants": 5
+    },
+    {
+      "name": "Select/wide",
+      "variants": 5
+    },
+    {
+      "name": "Textarea/wide",
+      "variants": 5
+    },
+    {
+      "name": "Button/ultra",
+      "variants": 24
+    },
+    {
+      "name": "Checkbox/ultra",
+      "variants": 9
+    },
+    {
+      "name": "Radio/ultra",
+      "variants": 6
+    },
+    {
+      "name": "Switch/ultra",
+      "variants": 6
+    },
+    {
+      "name": "Input/ultra",
+      "variants": 5
+    },
+    {
+      "name": "Select/ultra",
+      "variants": 5
+    },
+    {
+      "name": "Textarea/ultra",
+      "variants": 5
+    },
+    {
+      "name": "Button/tv",
+      "variants": 24
+    },
+    {
+      "name": "Checkbox/tv",
+      "variants": 9
+    },
+    {
+      "name": "Radio/tv",
+      "variants": 6
+    },
+    {
+      "name": "Switch/tv",
+      "variants": 6
+    },
+    {
+      "name": "Input/tv",
+      "variants": 5
+    },
+    {
+      "name": "Select/tv",
+      "variants": 5
+    },
+    {
+      "name": "Textarea/tv",
+      "variants": 5
+    }
+  ],
+  "components": 480
+}

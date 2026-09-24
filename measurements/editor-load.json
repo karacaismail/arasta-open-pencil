@@ -1,0 +1,6 @@
+{
+  "url": "http://127.0.0.1:1420/",
+  "body": "Your browser doesn't support the local file API. Files will be downloaded instead of saved in place. Check browser support\nDismiss\narasta\narasta\nFile\nEdit\nView\nObject\nText\nArrange\nFile\nAssets\nPages\n00 · Tasarım Sistemi\n01 · Mobil · dikey\n02 · Mobil · yatay\n03 · Tablet · dikey\n04 · Tablet · yatay\n05 · Laptop\n06 · Masaüstü & 5K\n07 · Büyük ekran · 8K\n08 · TV · 10-foot\n00b · Uyarlanabilir bileşenler\n00c · Durum matrisi\nLayers\nIcon\nButton\nField\nBadge\nIllustration\nCheckbox\nToast\nProductCard\nSupplierCard\nHeader\nFooter\nBottomNav\nFAQ\nRail\nIconButton\nChip\nProductCardState\nEventCard\nCommandPalette\nFilterSheet\nCompareTray\nRadio/Default\nSwitch/Default\nTooltip/Default\nKbd/Default\nAvatar/Default\nRating/Default\nStepper/Default\nTierProgress/Default\nSkeleton/Default\n\nPreparing page\n\n01 · Mobil · dikey\n\nY\nShare\nDesign\nCode\nAI\n2%\nPage\n100\n%\nVariables\n125 / 4\nExport",
+  "errors": [],
+  "loaded": true
+}

@@ -1,0 +1,1934 @@
+[
+  {
+    "route": "/mobil-dikey/320/kategoriler",
+    "durationMs": 49.04344600000013
+  },
+  {
+    "route": "/mobil-dikey/320/arama",
+    "durationMs": 57.35894899999994
+  },
+  {
+    "route": "/mobil-dikey/320/urun",
+    "durationMs": 50.30907900000011
+  },
+  {
+    "route": "/mobil-dikey/320/karsilastirma",
+    "durationMs": 18.681196
+  },
+  {
+    "route": "/mobil-dikey/320/tedarikciler",
+    "durationMs": 24.429341999999906
+  },
+  {
+    "route": "/mobil-dikey/320/magaza",
+    "durationMs": 33.22422099999994
+  },
+  {
+    "route": "/mobil-dikey/320/flash",
+    "durationMs": 61.696030000000064
+  },
+  {
+    "route": "/mobil-dikey/320/teklif-iste",
+    "durationMs": 16.14494399999967
+  },
+  {
+    "route": "/mobil-dikey/320/teklif-karsilastir",
+    "durationMs": 15.974798000000192
+  },
+  {
+    "route": "/mobil-dikey/320/sepet",
+    "durationMs": 17.771364999999605
+  },
+  {
+    "route": "/mobil-dikey/320/odeme",
+    "durationMs": 18.172419999999875
+  },
+  {
+    "route": "/mobil-dikey/320/siparis",
+    "durationMs": 20.619104999999763
+  },
+  {
+    "route": "/mobil-dikey/320/mesajlar",
+    "durationMs": 17.896981999999753
+  },
+  {
+    "route": "/mobil-dikey/320/panel",
+    "durationMs": 35.38856399999986
+  },
+  {
+    "route": "/mobil-dikey/320/giris",
+    "durationMs": 11.656423999999788
+  },
+  {
+    "route": "/mobil-dikey/320/kayit",
+    "durationMs": 14.41033299999981
+  },
+  {
+    "route": "/mobil-dikey/320/guvence",
+    "durationMs": 28.217251000000033
+  },
+  {
+    "route": "/mobil-dikey/320/tedarikci-ol",
+    "durationMs": 24.45258100000001
+  },
+  {
+    "route": "/mobil-dikey/320/yardim",
+    "durationMs": 31.53042400000004
+  },
+  {
+    "route": "/mobil-dikey/320/hakkimizda",
+    "durationMs": 14.446975999999722
+  },
+  {
+    "route": "/mobil-dikey/320/durumlar",
+    "durationMs": 11.82967299999973
+  },
+  {
+    "route": "/mobil-dikey/360/ana-sayfa",
+    "durationMs": 58.90762399999994
+  },
+  {
+    "route": "/mobil-dikey/360/kategoriler",
+    "durationMs": 43.21803399999999
+  },
+  {
+    "route": "/mobil-dikey/360/arama",
+    "durationMs": 52.67687500000011
+  },
+  {
+    "route": "/mobil-dikey/360/urun",
+    "durationMs": 41.66817600000013
+  },
+  {
+    "route": "/mobil-dikey/360/karsilastirma",
+    "durationMs": 15.909378999999717
+  },
+  {
+    "route": "/mobil-dikey/360/tedarikciler",
+    "durationMs": 20.268152999999984
+  },
+  {
+    "route": "/mobil-dikey/360/magaza",
+    "durationMs": 27.52415000000019
+  },
+  {
+    "route": "/mobil-dikey/360/flash",
+    "durationMs": 48.65568600000006
+  },
+  {
+    "route": "/mobil-dikey/360/teklif-iste",
+    "durationMs": 12.302138999999897
+  },
+  {
+    "route": "/mobil-dikey/360/teklif-karsilastir",
+    "durationMs": 13.385776000000078
+  },
+  {
+    "route": "/mobil-dikey/360/sepet",
+    "durationMs": 14.30516899999975
+  },
+  {
+    "route": "/mobil-dikey/360/odeme",
+    "durationMs": 16.331869000000097
+  },
+  {
+    "route": "/mobil-dikey/360/siparis",
+    "durationMs": 16.738296999999875
+  },
+  {
+    "route": "/mobil-dikey/360/mesajlar",
+    "durationMs": 13.216261999999915
+  },
+  {
+    "route": "/mobil-dikey/360/panel",
+    "durationMs": 28.839007000000038
+  },
+  {
+    "route": "/mobil-dikey/360/giris",
+    "durationMs": 10.142808999999943
+  },
+  {
+    "route": "/mobil-dikey/360/kayit",
+    "durationMs": 9.945926999999756
+  },
+  {
+    "route": "/mobil-dikey/360/guvence",
+    "durationMs": 19.08341799999971
+  },
+  {
+    "route": "/mobil-dikey/360/tedarikci-ol",
+    "durationMs": 16.48965599999974
+  },
+  {
+    "route": "/mobil-dikey/360/yardim",
+    "durationMs": 15.94401199999993
+  },
+  {
+    "route": "/mobil-dikey/360/hakkimizda",
+    "durationMs": 14.06434599999966
+  },
+  {
+    "route": "/mobil-dikey/360/durumlar",
+    "durationMs": 10.929997999999614
+  },
+  {
+    "route": "/mobil-dikey/375/ana-sayfa",
+    "durationMs": 80.35439200000019
+  },
+  {
+    "route": "/mobil-dikey/375/kategoriler",
+    "durationMs": 81.07176100000015
+  },
+  {
+    "route": "/mobil-dikey/375/arama",
+    "durationMs": 74.20506599999999
+  },
+  {
+    "route": "/mobil-dikey/375/urun",
+    "durationMs": 51.052099
+  },
+  {
+    "route": "/mobil-dikey/375/karsilastirma",
+    "durationMs": 20.182482000000164
+  },
+  {
+    "route": "/mobil-dikey/375/tedarikciler",
+    "durationMs": 22.321371
+  },
+  {
+    "route": "/mobil-dikey/375/magaza",
+    "durationMs": 42.21704899999986
+  },
+  {
+    "route": "/mobil-dikey/375/flash",
+    "durationMs": 62.75124400000004
+  },
+  {
+    "route": "/mobil-dikey/375/teklif-iste",
+    "durationMs": 12.679121000000123
+  },
+  {
+    "route": "/mobil-dikey/375/teklif-karsilastir",
+    "durationMs": 16.95016399999986
+  },
+  {
+    "route": "/mobil-dikey/375/sepet",
+    "durationMs": 14.20129900000029
+  },
+  {
+    "route": "/mobil-dikey/375/odeme",
+    "durationMs": 14.5673340000003
+  },
+  {
+    "route": "/mobil-dikey/375/siparis",
+    "durationMs": 15.849769999999808
+  },
+  {
+    "route": "/mobil-dikey/375/mesajlar",
+    "durationMs": 14.027522999999746
+  },
+  {
+    "route": "/mobil-dikey/375/panel",
+    "durationMs": 28.99951399999918
+  },
+  {
+    "route": "/mobil-dikey/375/giris",
+    "durationMs": 9.52716700000019
+  },
+  {
+    "route": "/mobil-dikey/375/kayit",
+    "durationMs": 9.978331000000253
+  },
+  {
+    "route": "/mobil-dikey/375/guvence",
+    "durationMs": 19.471709999999803
+  },
+  {
+    "route": "/mobil-dikey/375/tedarikci-ol",
+    "durationMs": 16.314838999999665
+  },
+  {
+    "route": "/mobil-dikey/375/yardim",
+    "durationMs": 19.413587000000007
+  },
+  {
+    "route": "/mobil-dikey/375/hakkimizda",
+    "durationMs": 17.895182000000204
+  },
+  {
+    "route": "/mobil-dikey/375/durumlar",
+    "durationMs": 24.875960999999734
+  },
+  {
+    "route": "/mobil-dikey/390/ana-sayfa",
+    "durationMs": 81.98652500000026
+  },
+  {
+    "route": "/mobil-dikey/390/kategoriler",
+    "durationMs": 50.330778000000464
+  },
+  {
+    "route": "/mobil-dikey/390/arama",
+    "durationMs": 64.94538100000045
+  },
+  {
+    "route": "/mobil-dikey/390/urun",
+    "durationMs": 43.70399400000042
+  },
+  {
+    "route": "/mobil-dikey/390/karsilastirma",
+    "durationMs": 18.53326399999969
+  },
+  {
+    "route": "/mobil-dikey/390/tedarikciler",
+    "durationMs": 25.685824999999568
+  },
+  {
+    "route": "/mobil-dikey/390/magaza",
+    "durationMs": 32.22921799999949
+  },
+  {
+    "route": "/mobil-dikey/390/flash",
+    "durationMs": 100.4043899999997
+  },
+  {
+    "route": "/mobil-dikey/390/teklif-iste",
+    "durationMs": 17.065561999999773
+  },
+  {
+    "route": "/mobil-dikey/390/teklif-karsilastir",
+    "durationMs": 17.062636999999995
+  },
+  {
+    "route": "/mobil-dikey/390/sepet",
+    "durationMs": 15.667177000000265
+  },
+  {
+    "route": "/mobil-dikey/390/odeme",
+    "durationMs": 18.945975000000544
+  },
+  {
+    "route": "/mobil-dikey/390/siparis",
+    "durationMs": 18.99481300000025
+  },
+  {
+    "route": "/mobil-dikey/390/mesajlar",
+    "durationMs": 14.940448999999717
+  },
+  {
+    "route": "/mobil-dikey/390/panel",
+    "durationMs": 35.22753400000056
+  },
+  {
+    "route": "/mobil-dikey/390/giris",
+    "durationMs": 13.044138000000203
+  },
+  {
+    "route": "/mobil-dikey/390/kayit",
+    "durationMs": 13.173823000000084
+  },
+  {
+    "route": "/mobil-dikey/390/guvence",
+    "durationMs": 22.998813000000155
+  },
+  {
+    "route": "/mobil-dikey/390/tedarikci-ol",
+    "durationMs": 20.429574000000684
+  },
+  {
+    "route": "/mobil-dikey/390/yardim",
+    "durationMs": 16.54122600000028
+  },
+  {
+    "route": "/mobil-dikey/390/hakkimizda",
+    "durationMs": 13.319829999999456
+  },
+  {
+    "route": "/mobil-dikey/390/durumlar",
+    "durationMs": 10.944037999999637
+  },
+  {
+    "route": "/mobil-dikey/430/ana-sayfa",
+    "durationMs": 54.76415000000088
+  },
+  {
+    "route": "/mobil-dikey/430/kategoriler",
+    "durationMs": 46.28807499999948
+  },
+  {
+    "route": "/mobil-dikey/430/arama",
+    "durationMs": 54.14784200000031
+  },
+  {
+    "route": "/mobil-dikey/430/urun",
+    "durationMs": 43.36466699999983
+  },
+  {
+    "route": "/mobil-dikey/430/karsilastirma",
+    "durationMs": 18.749308000000383
+  },
+  {
+    "route": "/mobil-dikey/430/tedarikciler",
+    "durationMs": 25.19897299999957
+  },
+  {
+    "route": "/mobil-dikey/430/magaza",
+    "durationMs": 28.739410999999564
+  },
+  {
+    "route": "/mobil-dikey/430/flash",
+    "durationMs": 45.45708999999988
+  },
+  {
+    "route": "/mobil-dikey/430/teklif-iste",
+    "durationMs": 13.236597000000074
+  },
+  {
+    "route": "/mobil-dikey/430/teklif-karsilastir",
+    "durationMs": 14.036522999999761
+  },
+  {
+    "route": "/mobil-dikey/430/sepet",
+    "durationMs": 19.57512399999996
+  },
+  {
+    "route": "/mobil-dikey/430/odeme",
+    "durationMs": 17.364921000000322
+  },
+  {
+    "route": "/mobil-dikey/430/siparis",
+    "durationMs": 20.059572999999546
+  },
+  {
+    "route": "/mobil-dikey/430/mesajlar",
+    "durationMs": 17.200815999999577
+  },
+  {
+    "route": "/mobil-dikey/430/panel",
+    "durationMs": 35.24162100000012
+  },
+  {
+    "route": "/mobil-dikey/430/giris",
+    "durationMs": 10.870115000000624
+  },
+  {
+    "route": "/mobil-dikey/430/kayit",
+    "durationMs": 10.988022000000456
+  },
+  {
+    "route": "/mobil-dikey/430/guvence",
+    "durationMs": 37.42758200000026
+  },
+  {
+    "route": "/mobil-dikey/430/tedarikci-ol",
+    "durationMs": 18.61955399999988
+  },
+  {
+    "route": "/mobil-dikey/430/yardim",
+    "durationMs": 14.391513999999916
+  },
+  {
+    "route": "/mobil-dikey/430/hakkimizda",
+    "durationMs": 13.983258999999634
+  },
+  {
+    "route": "/mobil-dikey/430/durumlar",
+    "durationMs": 11.135585999999421
+  },
+  {
+    "route": "/mobil-yatay/480/ana-sayfa",
+    "durationMs": 55.92609900000025
+  },
+  {
+    "route": "/mobil-yatay/480/kategoriler",
+    "durationMs": 40.911245000000235
+  },
+  {
+    "route": "/mobil-yatay/480/arama",
+    "durationMs": 51.41190000000006
+  },
+  {
+    "route": "/mobil-yatay/480/urun",
+    "durationMs": 41.71501999999964
+  },
+  {
+    "route": "/mobil-yatay/480/karsilastirma",
+    "durationMs": 17.343979000000218
+  },
+  {
+    "route": "/mobil-yatay/480/tedarikciler",
+    "durationMs": 19.482812000000195
+  },
+  {
+    "route": "/mobil-yatay/480/magaza",
+    "durationMs": 26.657648999999765
+  },
+  {
+    "route": "/mobil-yatay/480/flash",
+    "durationMs": 46.81160699999964
+  },
+  {
+    "route": "/mobil-yatay/480/teklif-iste",
+    "durationMs": 11.831650000000081
+  },
+  {
+    "route": "/mobil-yatay/480/teklif-karsilastir",
+    "durationMs": 14.043504000000212
+  },
+  {
+    "route": "/mobil-yatay/480/sepet",
+    "durationMs": 12.38658100000066
+  },
+  {
+    "route": "/mobil-yatay/480/odeme",
+    "durationMs": 14.835221999999703
+  },
+  {
+    "route": "/mobil-yatay/480/siparis",
+    "durationMs": 16.708160000000134
+  },
+  {
+    "route": "/mobil-yatay/480/mesajlar",
+    "durationMs": 15.154845000000023
+  },
+  {
+    "route": "/mobil-yatay/480/panel",
+    "durationMs": 30.020864999999503
+  },
+  {
+    "route": "/mobil-yatay/480/giris",
+    "durationMs": 7.925180000000182
+  },
+  {
+    "route": "/mobil-yatay/480/kayit",
+    "durationMs": 9.821555999999873
+  },
+  {
+    "route": "/mobil-yatay/480/guvence",
+    "durationMs": 19.313419000000067
+  },
+  {
+    "route": "/mobil-yatay/480/tedarikci-ol",
+    "durationMs": 14.862593999999262
+  },
+  {
+    "route": "/mobil-yatay/480/yardim",
+    "durationMs": 14.400609999999688
+  },
+  {
+    "route": "/mobil-yatay/480/hakkimizda",
+    "durationMs": 13.466403999999784
+  },
+  {
+    "route": "/mobil-yatay/480/durumlar",
+    "durationMs": 11.440741000000344
+  },
+  {
+    "route": "/mobil-yatay/667/ana-sayfa",
+    "durationMs": 66.23248800000056
+  },
+  {
+    "route": "/mobil-yatay/667/kategoriler",
+    "durationMs": 61.996877999999924
+  },
+  {
+    "route": "/mobil-yatay/667/arama",
+    "durationMs": 77.42342199999985
+  },
+  {
+    "route": "/mobil-yatay/667/urun",
+    "durationMs": 40.235961999999745
+  },
+  {
+    "route": "/mobil-yatay/667/karsilastirma",
+    "durationMs": 16.593159000000014
+  },
+  {
+    "route": "/mobil-yatay/667/tedarikciler",
+    "durationMs": 23.358095999999932
+  },
+  {
+    "route": "/mobil-yatay/667/magaza",
+    "durationMs": 30.18316799999957
+  },
+  {
+    "route": "/mobil-yatay/667/flash",
+    "durationMs": 50.74866999999995
+  },
+  {
+    "route": "/mobil-yatay/667/teklif-iste",
+    "durationMs": 11.848998000000392
+  },
+  {
+    "route": "/mobil-yatay/667/teklif-karsilastir",
+    "durationMs": 13.816484000000855
+  },
+  {
+    "route": "/mobil-yatay/667/sepet",
+    "durationMs": 12.149035000000367
+  },
+  {
+    "route": "/mobil-yatay/667/odeme",
+    "durationMs": 13.7921180000003
+  },
+  {
+    "route": "/mobil-yatay/667/siparis",
+    "durationMs": 14.756414000000404
+  },
+  {
+    "route": "/mobil-yatay/667/mesajlar",
+    "durationMs": 12.514862999999423
+  },
+  {
+    "route": "/mobil-yatay/667/panel",
+    "durationMs": 28.530879000000823
+  },
+  {
+    "route": "/mobil-yatay/667/giris",
+    "durationMs": 8.284840000000258
+  },
+  {
+    "route": "/mobil-yatay/667/kayit",
+    "durationMs": 8.717980999999781
+  },
+  {
+    "route": "/mobil-yatay/667/guvence",
+    "durationMs": 17.234953000000132
+  },
+  {
+    "route": "/mobil-yatay/667/tedarikci-ol",
+    "durationMs": 13.944986000000426
+  },
+  {
+    "route": "/mobil-yatay/667/yardim",
+    "durationMs": 13.238454999999703
+  },
+  {
+    "route": "/mobil-yatay/667/hakkimizda",
+    "durationMs": 11.652675999999701
+  },
+  {
+    "route": "/mobil-yatay/667/durumlar",
+    "durationMs": 10.507724999999482
+  },
+  {
+    "route": "/mobil-yatay/844/ana-sayfa",
+    "durationMs": 50.35703999999987
+  },
+  {
+    "route": "/mobil-yatay/844/kategoriler",
+    "durationMs": 37.465791000000536
+  },
+  {
+    "route": "/mobil-yatay/844/arama",
+    "durationMs": 46.09031899999991
+  },
+  {
+    "route": "/mobil-yatay/844/urun",
+    "durationMs": 36.93738099999973
+  },
+  {
+    "route": "/mobil-yatay/844/karsilastirma",
+    "durationMs": 15.77138500000001
+  },
+  {
+    "route": "/mobil-yatay/844/tedarikciler",
+    "durationMs": 20.511956000000282
+  },
+  {
+    "route": "/mobil-yatay/844/magaza",
+    "durationMs": 28.07113400000071
+  },
+  {
+    "route": "/mobil-yatay/844/flash",
+    "durationMs": 49.6744520000002
+  },
+  {
+    "route": "/mobil-yatay/844/teklif-iste",
+    "durationMs": 26.316060000000107
+  },
+  {
+    "route": "/mobil-yatay/844/teklif-karsilastir",
+    "durationMs": 13.259696000000076
+  },
+  {
+    "route": "/mobil-yatay/844/sepet",
+    "durationMs": 13.874885999999606
+  },
+  {
+    "route": "/mobil-yatay/844/odeme",
+    "durationMs": 16.260607000000164
+  },
+  {
+    "route": "/mobil-yatay/844/siparis",
+    "durationMs": 16.192955999999867
+  },
+  {
+    "route": "/mobil-yatay/844/mesajlar",
+    "durationMs": 12.78850599999987
+  },
+  {
+    "route": "/mobil-yatay/844/panel",
+    "durationMs": 27.762990000000173
+  },
+  {
+    "route": "/mobil-yatay/844/giris",
+    "durationMs": 8.448772000000645
+  },
+  {
+    "route": "/mobil-yatay/844/kayit",
+    "durationMs": 9.034528999999566
+  },
+  {
+    "route": "/mobil-yatay/844/guvence",
+    "durationMs": 18.505567999999585
+  },
+  {
+    "route": "/mobil-yatay/844/tedarikci-ol",
+    "durationMs": 14.05401300000085
+  },
+  {
+    "route": "/mobil-yatay/844/yardim",
+    "durationMs": 13.699310999999398
+  },
+  {
+    "route": "/mobil-yatay/844/hakkimizda",
+    "durationMs": 12.155326999999488
+  },
+  {
+    "route": "/mobil-yatay/844/durumlar",
+    "durationMs": 10.852587999999741
+  },
+  {
+    "route": "/mobil-yatay/932/ana-sayfa",
+    "durationMs": 53.858399999999165
+  },
+  {
+    "route": "/mobil-yatay/932/kategoriler",
+    "durationMs": 39.2214240000003
+  },
+  {
+    "route": "/mobil-yatay/932/arama",
+    "durationMs": 47.14380799999981
+  },
+  {
+    "route": "/mobil-yatay/932/urun",
+    "durationMs": 36.897076999999626
+  },
+  {
+    "route": "/mobil-yatay/932/karsilastirma",
+    "durationMs": 15.713141000000178
+  },
+  {
+    "route": "/mobil-yatay/932/tedarikciler",
+    "durationMs": 19.848818000000392
+  },
+  {
+    "route": "/mobil-yatay/932/magaza",
+    "durationMs": 25.58408899999995
+  },
+  {
+    "route": "/mobil-yatay/932/flash",
+    "durationMs": 44.83889699999963
+  },
+  {
+    "route": "/mobil-yatay/932/teklif-iste",
+    "durationMs": 11.440609999999651
+  },
+  {
+    "route": "/mobil-yatay/932/teklif-karsilastir",
+    "durationMs": 14.183280000000195
+  },
+  {
+    "route": "/mobil-yatay/932/sepet",
+    "durationMs": 14.775138999999399
+  },
+  {
+    "route": "/mobil-yatay/932/odeme",
+    "durationMs": 14.904236999999739
+  },
+  {
+    "route": "/mobil-yatay/932/siparis",
+    "durationMs": 15.421892000000298
+  },
+  {
+    "route": "/mobil-yatay/932/mesajlar",
+    "durationMs": 12.298926999999821
+  },
+  {
+    "route": "/mobil-yatay/932/panel",
+    "durationMs": 38.8312219999998
+  },
+  {
+    "route": "/mobil-yatay/932/giris",
+    "durationMs": 9.501616000000467
+  },
+  {
+    "route": "/mobil-yatay/932/kayit",
+    "durationMs": 10.507413999999699
+  },
+  {
+    "route": "/mobil-yatay/932/guvence",
+    "durationMs": 19.191523999999845
+  },
+  {
+    "route": "/mobil-yatay/932/tedarikci-ol",
+    "durationMs": 17.928965000000062
+  },
+  {
+    "route": "/mobil-yatay/932/yardim",
+    "durationMs": 22.198460999999952
+  },
+  {
+    "route": "/mobil-yatay/932/hakkimizda",
+    "durationMs": 35.02773400000024
+  },
+  {
+    "route": "/mobil-yatay/932/durumlar",
+    "durationMs": 11.168964999999844
+  },
+  {
+    "route": "/tablet-dikey/600/ana-sayfa",
+    "durationMs": 76.41729699999996
+  },
+  {
+    "route": "/tablet-dikey/600/kategoriler",
+    "durationMs": 39.77297699999963
+  },
+  {
+    "route": "/tablet-dikey/600/arama",
+    "durationMs": 51.183272999999645
+  },
+  {
+    "route": "/tablet-dikey/600/urun",
+    "durationMs": 42.43397999999979
+  },
+  {
+    "route": "/tablet-dikey/600/karsilastirma",
+    "durationMs": 14.781168000000434
+  },
+  {
+    "route": "/tablet-dikey/600/tedarikciler",
+    "durationMs": 20.132478000000447
+  },
+  {
+    "route": "/tablet-dikey/600/magaza",
+    "durationMs": 28.087915999999495
+  },
+  {
+    "route": "/tablet-dikey/600/flash",
+    "durationMs": 49.74894899999981
+  },
+  {
+    "route": "/tablet-dikey/600/teklif-iste",
+    "durationMs": 13.001712999999654
+  },
+  {
+    "route": "/tablet-dikey/600/teklif-karsilastir",
+    "durationMs": 14.120248999999603
+  },
+  {
+    "route": "/tablet-dikey/600/sepet",
+    "durationMs": 13.050915000000714
+  },
+  {
+    "route": "/tablet-dikey/600/odeme",
+    "durationMs": 14.142679000000498
+  },
+  {
+    "route": "/tablet-dikey/600/siparis",
+    "durationMs": 15.226431999999477
+  },
+  {
+    "route": "/tablet-dikey/600/mesajlar",
+    "durationMs": 13.152860000000146
+  },
+  {
+    "route": "/tablet-dikey/600/panel",
+    "durationMs": 28.028866000000562
+  },
+  {
+    "route": "/tablet-dikey/600/giris",
+    "durationMs": 8.684924000001047
+  },
+  {
+    "route": "/tablet-dikey/600/kayit",
+    "durationMs": 9.431434000000081
+  },
+  {
+    "route": "/tablet-dikey/600/guvence",
+    "durationMs": 17.42209599999842
+  },
+  {
+    "route": "/tablet-dikey/600/tedarikci-ol",
+    "durationMs": 13.440006999999241
+  },
+  {
+    "route": "/tablet-dikey/600/yardim",
+    "durationMs": 13.090854000000036
+  },
+  {
+    "route": "/tablet-dikey/600/hakkimizda",
+    "durationMs": 12.089248000000225
+  },
+  {
+    "route": "/tablet-dikey/600/durumlar",
+    "durationMs": 10.998890999999276
+  },
+  {
+    "route": "/tablet-dikey/768/ana-sayfa",
+    "durationMs": 72.28759399999944
+  },
+  {
+    "route": "/tablet-dikey/768/kategoriler",
+    "durationMs": 38.925686000000496
+  },
+  {
+    "route": "/tablet-dikey/768/arama",
+    "durationMs": 49.74067500000092
+  },
+  {
+    "route": "/tablet-dikey/768/urun",
+    "durationMs": 40.07843800000046
+  },
+  {
+    "route": "/tablet-dikey/768/karsilastirma",
+    "durationMs": 13.190382999999201
+  },
+  {
+    "route": "/tablet-dikey/768/tedarikciler",
+    "durationMs": 19.388974999999846
+  },
+  {
+    "route": "/tablet-dikey/768/magaza",
+    "durationMs": 26.608539999999266
+  },
+  {
+    "route": "/tablet-dikey/768/flash",
+    "durationMs": 49.47623299999941
+  },
+  {
+    "route": "/tablet-dikey/768/teklif-iste",
+    "durationMs": 14.040759999999864
+  },
+  {
+    "route": "/tablet-dikey/768/teklif-karsilastir",
+    "durationMs": 12.249867999998969
+  },
+  {
+    "route": "/tablet-dikey/768/sepet",
+    "durationMs": 12.058302999999796
+  },
+  {
+    "route": "/tablet-dikey/768/odeme",
+    "durationMs": 13.903127999999924
+  },
+  {
+    "route": "/tablet-dikey/768/siparis",
+    "durationMs": 15.314554999999018
+  },
+  {
+    "route": "/tablet-dikey/768/mesajlar",
+    "durationMs": 12.897985999999946
+  },
+  {
+    "route": "/tablet-dikey/768/panel",
+    "durationMs": 35.51079299999947
+  },
+  {
+    "route": "/tablet-dikey/768/giris",
+    "durationMs": 10.553240999999616
+  },
+  {
+    "route": "/tablet-dikey/768/kayit",
+    "durationMs": 15.241255999999339
+  },
+  {
+    "route": "/tablet-dikey/768/guvence",
+    "durationMs": 24.456538999998884
+  },
+  {
+    "route": "/tablet-dikey/768/tedarikci-ol",
+    "durationMs": 19.894830999999613
+  },
+  {
+    "route": "/tablet-dikey/768/yardim",
+    "durationMs": 19.423876999999266
+  },
+  {
+    "route": "/tablet-dikey/768/hakkimizda",
+    "durationMs": 15.279190000001108
+  },
+  {
+    "route": "/tablet-dikey/768/durumlar",
+    "durationMs": 11.616065000000162
+  },
+  {
+    "route": "/tablet-dikey/1024/ana-sayfa",
+    "durationMs": 81.14694599999893
+  },
+  {
+    "route": "/tablet-dikey/1024/kategoriler",
+    "durationMs": 61.30137500000092
+  },
+  {
+    "route": "/tablet-dikey/1024/arama",
+    "durationMs": 78.56916799999999
+  },
+  {
+    "route": "/tablet-dikey/1024/urun",
+    "durationMs": 44.55400499999996
+  },
+  {
+    "route": "/tablet-dikey/1024/karsilastirma",
+    "durationMs": 14.181759000000966
+  },
+  {
+    "route": "/tablet-dikey/1024/tedarikciler",
+    "durationMs": 19.6584270000003
+  },
+  {
+    "route": "/tablet-dikey/1024/magaza",
+    "durationMs": 32.17597999999998
+  },
+  {
+    "route": "/tablet-dikey/1024/flash",
+    "durationMs": 46.71556199999941
+  },
+  {
+    "route": "/tablet-dikey/1024/teklif-iste",
+    "durationMs": 11.511110000001281
+  },
+  {
+    "route": "/tablet-dikey/1024/teklif-karsilastir",
+    "durationMs": 12.038165999998455
+  },
+  {
+    "route": "/tablet-dikey/1024/sepet",
+    "durationMs": 12.719252999999298
+  },
+  {
+    "route": "/tablet-dikey/1024/odeme",
+    "durationMs": 14.44486599999982
+  },
+  {
+    "route": "/tablet-dikey/1024/siparis",
+    "durationMs": 14.66827800000101
+  },
+  {
+    "route": "/tablet-dikey/1024/mesajlar",
+    "durationMs": 12.598737000000256
+  },
+  {
+    "route": "/tablet-dikey/1024/panel",
+    "durationMs": 28.79869300000064
+  },
+  {
+    "route": "/tablet-dikey/1024/giris",
+    "durationMs": 8.22232299999996
+  },
+  {
+    "route": "/tablet-dikey/1024/kayit",
+    "durationMs": 9.080315000001065
+  },
+  {
+    "route": "/tablet-dikey/1024/guvence",
+    "durationMs": 17.89760600000045
+  },
+  {
+    "route": "/tablet-dikey/1024/tedarikci-ol",
+    "durationMs": 14.022472000000562
+  },
+  {
+    "route": "/tablet-dikey/1024/yardim",
+    "durationMs": 13.092405999999755
+  },
+  {
+    "route": "/tablet-dikey/1024/hakkimizda",
+    "durationMs": 12.146781999999803
+  },
+  {
+    "route": "/tablet-dikey/1024/durumlar",
+    "durationMs": 10.842343000000255
+  },
+  {
+    "route": "/tablet-yatay/960/ana-sayfa",
+    "durationMs": 71.44223800000145
+  },
+  {
+    "route": "/tablet-yatay/960/kategoriler",
+    "durationMs": 38.96348200000102
+  },
+  {
+    "route": "/tablet-yatay/960/arama",
+    "durationMs": 60.85278400000061
+  },
+  {
+    "route": "/tablet-yatay/960/urun",
+    "durationMs": 39.53170599999976
+  },
+  {
+    "route": "/tablet-yatay/960/karsilastirma",
+    "durationMs": 14.059853999999177
+  },
+  {
+    "route": "/tablet-yatay/960/tedarikciler",
+    "durationMs": 19.374198000001343
+  },
+  {
+    "route": "/tablet-yatay/960/magaza",
+    "durationMs": 25.038692000000083
+  },
+  {
+    "route": "/tablet-yatay/960/flash",
+    "durationMs": 44.385136999999304
+  },
+  {
+    "route": "/tablet-yatay/960/teklif-iste",
+    "durationMs": 11.489916000000449
+  },
+  {
+    "route": "/tablet-yatay/960/teklif-karsilastir",
+    "durationMs": 11.311664999999266
+  },
+  {
+    "route": "/tablet-yatay/960/sepet",
+    "durationMs": 11.790826999998899
+  },
+  {
+    "route": "/tablet-yatay/960/odeme",
+    "durationMs": 13.04724399999941
+  },
+  {
+    "route": "/tablet-yatay/960/siparis",
+    "durationMs": 14.423799000000145
+  },
+  {
+    "route": "/tablet-yatay/960/mesajlar",
+    "durationMs": 11.394588000001022
+  },
+  {
+    "route": "/tablet-yatay/960/panel",
+    "durationMs": 28.304435000000012
+  },
+  {
+    "route": "/tablet-yatay/960/giris",
+    "durationMs": 8.321939999999813
+  },
+  {
+    "route": "/tablet-yatay/960/kayit",
+    "durationMs": 9.46221499999956
+  },
+  {
+    "route": "/tablet-yatay/960/guvence",
+    "durationMs": 17.692315999998755
+  },
+  {
+    "route": "/tablet-yatay/960/tedarikci-ol",
+    "durationMs": 15.1418479999993
+  },
+  {
+    "route": "/tablet-yatay/960/yardim",
+    "durationMs": 13.208043999999063
+  },
+  {
+    "route": "/tablet-yatay/960/hakkimizda",
+    "durationMs": 11.790995000001203
+  },
+  {
+    "route": "/tablet-yatay/960/durumlar",
+    "durationMs": 10.759882999998808
+  },
+  {
+    "route": "/tablet-yatay/1024/ana-sayfa",
+    "durationMs": 68.51222400000006
+  },
+  {
+    "route": "/tablet-yatay/1024/kategoriler",
+    "durationMs": 37.77501800000027
+  },
+  {
+    "route": "/tablet-yatay/1024/arama",
+    "durationMs": 57.6589899999999
+  },
+  {
+    "route": "/tablet-yatay/1024/urun",
+    "durationMs": 43.925445000000764
+  },
+  {
+    "route": "/tablet-yatay/1024/karsilastirma",
+    "durationMs": 16.544935999998415
+  },
+  {
+    "route": "/tablet-yatay/1024/tedarikciler",
+    "durationMs": 23.36967900000127
+  },
+  {
+    "route": "/tablet-yatay/1024/magaza",
+    "durationMs": 37.29385199999888
+  },
+  {
+    "route": "/tablet-yatay/1024/flash",
+    "durationMs": 55.92831099999967
+  },
+  {
+    "route": "/tablet-yatay/1024/teklif-iste",
+    "durationMs": 17.40693199999987
+  },
+  {
+    "route": "/tablet-yatay/1024/teklif-karsilastir",
+    "durationMs": 29.0161879999996
+  },
+  {
+    "route": "/tablet-yatay/1024/sepet",
+    "durationMs": 12.396007000001191
+  },
+  {
+    "route": "/tablet-yatay/1024/odeme",
+    "durationMs": 13.818331999998918
+  },
+  {
+    "route": "/tablet-yatay/1024/siparis",
+    "durationMs": 15.855692999999519
+  },
+  {
+    "route": "/tablet-yatay/1024/mesajlar",
+    "durationMs": 11.873717999998917
+  },
+  {
+    "route": "/tablet-yatay/1024/panel",
+    "durationMs": 27.660271000000648
+  },
+  {
+    "route": "/tablet-yatay/1024/giris",
+    "durationMs": 7.644335000000865
+  },
+  {
+    "route": "/tablet-yatay/1024/kayit",
+    "durationMs": 8.788798999999926
+  },
+  {
+    "route": "/tablet-yatay/1024/guvence",
+    "durationMs": 16.755857000000105
+  },
+  {
+    "route": "/tablet-yatay/1024/tedarikci-ol",
+    "durationMs": 12.933458999999857
+  },
+  {
+    "route": "/tablet-yatay/1024/yardim",
+    "durationMs": 13.037253000000419
+  },
+  {
+    "route": "/tablet-yatay/1024/hakkimizda",
+    "durationMs": 11.711327000000892
+  },
+  {
+    "route": "/tablet-yatay/1024/durumlar",
+    "durationMs": 9.985768999998982
+  },
+  {
+    "route": "/tablet-yatay/1366/ana-sayfa",
+    "durationMs": 74.91618000000017
+  },
+  {
+    "route": "/tablet-yatay/1366/kategoriler",
+    "durationMs": 43.04975300000115
+  },
+  {
+    "route": "/tablet-yatay/1366/arama",
+    "durationMs": 60.113547000000835
+  },
+  {
+    "route": "/tablet-yatay/1366/urun",
+    "durationMs": 40.36354399999982
+  },
+  {
+    "route": "/tablet-yatay/1366/karsilastirma",
+    "durationMs": 14.443364000000656
+  },
+  {
+    "route": "/tablet-yatay/1366/tedarikciler",
+    "durationMs": 19.001476999999795
+  },
+  {
+    "route": "/tablet-yatay/1366/magaza",
+    "durationMs": 25.393145000000004
+  },
+  {
+    "route": "/tablet-yatay/1366/flash",
+    "durationMs": 43.723635999998805
+  },
+  {
+    "route": "/tablet-yatay/1366/teklif-iste",
+    "durationMs": 11.030472000000373
+  },
+  {
+    "route": "/tablet-yatay/1366/teklif-karsilastir",
+    "durationMs": 11.199289000000135
+  },
+  {
+    "route": "/tablet-yatay/1366/sepet",
+    "durationMs": 13.233918999998423
+  },
+  {
+    "route": "/tablet-yatay/1366/odeme",
+    "durationMs": 12.73149899999953
+  },
+  {
+    "route": "/tablet-yatay/1366/siparis",
+    "durationMs": 15.07952800000021
+  },
+  {
+    "route": "/tablet-yatay/1366/mesajlar",
+    "durationMs": 11.984232999999222
+  },
+  {
+    "route": "/tablet-yatay/1366/panel",
+    "durationMs": 26.74112199999945
+  },
+  {
+    "route": "/tablet-yatay/1366/giris",
+    "durationMs": 7.6689080000014656
+  },
+  {
+    "route": "/tablet-yatay/1366/kayit",
+    "durationMs": 8.319940999999744
+  },
+  {
+    "route": "/tablet-yatay/1366/guvence",
+    "durationMs": 16.335557000000335
+  },
+  {
+    "route": "/tablet-yatay/1366/tedarikci-ol",
+    "durationMs": 13.439699999998993
+  },
+  {
+    "route": "/tablet-yatay/1366/yardim",
+    "durationMs": 12.12175699999898
+  },
+  {
+    "route": "/tablet-yatay/1366/hakkimizda",
+    "durationMs": 11.4367000000002
+  },
+  {
+    "route": "/tablet-yatay/1366/durumlar",
+    "durationMs": 9.476418000000194
+  },
+  {
+    "route": "/laptop/1280/ana-sayfa",
+    "durationMs": 71.07062700000097
+  },
+  {
+    "route": "/laptop/1280/kategoriler",
+    "durationMs": 39.899397999999564
+  },
+  {
+    "route": "/laptop/1280/arama",
+    "durationMs": 59.509031999999934
+  },
+  {
+    "route": "/laptop/1280/urun",
+    "durationMs": 39.54663900000014
+  },
+  {
+    "route": "/laptop/1280/karsilastirma",
+    "durationMs": 16.17816800000037
+  },
+  {
+    "route": "/laptop/1280/tedarikciler",
+    "durationMs": 22.27146299999913
+  },
+  {
+    "route": "/laptop/1280/magaza",
+    "durationMs": 27.712932000000364
+  },
+  {
+    "route": "/laptop/1280/flash",
+    "durationMs": 77.33923399999912
+  },
+  {
+    "route": "/laptop/1280/teklif-iste",
+    "durationMs": 15.248536999999487
+  },
+  {
+    "route": "/laptop/1280/teklif-karsilastir",
+    "durationMs": 18.058060000001205
+  },
+  {
+    "route": "/laptop/1280/sepet",
+    "durationMs": 20.648376999999527
+  },
+  {
+    "route": "/laptop/1280/odeme",
+    "durationMs": 20.67510299999958
+  },
+  {
+    "route": "/laptop/1280/siparis",
+    "durationMs": 20.86103600000024
+  },
+  {
+    "route": "/laptop/1280/mesajlar",
+    "durationMs": 20.516881000001376
+  },
+  {
+    "route": "/laptop/1280/panel",
+    "durationMs": 44.61869900000056
+  },
+  {
+    "route": "/laptop/1280/giris",
+    "durationMs": 12.67054300000018
+  },
+  {
+    "route": "/laptop/1280/kayit",
+    "durationMs": 12.98301100000026
+  },
+  {
+    "route": "/laptop/1280/guvence",
+    "durationMs": 40.479042999999365
+  },
+  {
+    "route": "/laptop/1280/tedarikci-ol",
+    "durationMs": 17.341527000000497
+  },
+  {
+    "route": "/laptop/1280/yardim",
+    "durationMs": 16.67660799999976
+  },
+  {
+    "route": "/laptop/1280/hakkimizda",
+    "durationMs": 14.235021000000415
+  },
+  {
+    "route": "/laptop/1280/durumlar",
+    "durationMs": 13.287609999999404
+  },
+  {
+    "route": "/laptop/1440/ana-sayfa",
+    "durationMs": 74.72510300000067
+  },
+  {
+    "route": "/laptop/1440/kategoriler",
+    "durationMs": 41.12861100000009
+  },
+  {
+    "route": "/laptop/1440/arama",
+    "durationMs": 61.13400600000023
+  },
+  {
+    "route": "/laptop/1440/urun",
+    "durationMs": 49.16096800000014
+  },
+  {
+    "route": "/laptop/1440/karsilastirma",
+    "durationMs": 20.112216999999873
+  },
+  {
+    "route": "/laptop/1440/tedarikciler",
+    "durationMs": 25.29994699999952
+  },
+  {
+    "route": "/laptop/1440/magaza",
+    "durationMs": 32.33640100000048
+  },
+  {
+    "route": "/laptop/1440/flash",
+    "durationMs": 52.87342299999909
+  },
+  {
+    "route": "/laptop/1440/teklif-iste",
+    "durationMs": 16.965384999999515
+  },
+  {
+    "route": "/laptop/1440/teklif-karsilastir",
+    "durationMs": 17.616619999998875
+  },
+  {
+    "route": "/laptop/1440/sepet",
+    "durationMs": 16.30315999999948
+  },
+  {
+    "route": "/laptop/1440/odeme",
+    "durationMs": 16.216607000000295
+  },
+  {
+    "route": "/laptop/1440/siparis",
+    "durationMs": 16.905217999999877
+  },
+  {
+    "route": "/laptop/1440/mesajlar",
+    "durationMs": 14.48526899999888
+  },
+  {
+    "route": "/laptop/1440/panel",
+    "durationMs": 29.277189999998882
+  },
+  {
+    "route": "/laptop/1440/giris",
+    "durationMs": 10.412707999999839
+  },
+  {
+    "route": "/laptop/1440/kayit",
+    "durationMs": 10.843073000000004
+  },
+  {
+    "route": "/laptop/1440/guvence",
+    "durationMs": 21.88469299999997
+  },
+  {
+    "route": "/laptop/1440/tedarikci-ol",
+    "durationMs": 19.094718000000285
+  },
+  {
+    "route": "/laptop/1440/yardim",
+    "durationMs": 16.80109099999936
+  },
+  {
+    "route": "/laptop/1440/hakkimizda",
+    "durationMs": 17.72681999999986
+  },
+  {
+    "route": "/laptop/1440/durumlar",
+    "durationMs": 17.230556999998953
+  },
+  {
+    "route": "/laptop/1728/ana-sayfa",
+    "durationMs": 76.1798519999993
+  },
+  {
+    "route": "/laptop/1728/kategoriler",
+    "durationMs": 41.72280000000137
+  },
+  {
+    "route": "/laptop/1728/arama",
+    "durationMs": 59.961725000001024
+  },
+  {
+    "route": "/laptop/1728/urun",
+    "durationMs": 39.82184799999959
+  },
+  {
+    "route": "/laptop/1728/karsilastirma",
+    "durationMs": 15.434001999999964
+  },
+  {
+    "route": "/laptop/1728/tedarikciler",
+    "durationMs": 19.651998999999705
+  },
+  {
+    "route": "/laptop/1728/magaza",
+    "durationMs": 26.921807000000626
+  },
+  {
+    "route": "/laptop/1728/flash",
+    "durationMs": 47.120686000000205
+  },
+  {
+    "route": "/laptop/1728/teklif-iste",
+    "durationMs": 13.3077830000002
+  },
+  {
+    "route": "/laptop/1728/teklif-karsilastir",
+    "durationMs": 14.61182799999915
+  },
+  {
+    "route": "/laptop/1728/sepet",
+    "durationMs": 14.10587100000157
+  },
+  {
+    "route": "/laptop/1728/odeme",
+    "durationMs": 15.675961000000825
+  },
+  {
+    "route": "/laptop/1728/siparis",
+    "durationMs": 16.567321000000447
+  },
+  {
+    "route": "/laptop/1728/mesajlar",
+    "durationMs": 15.422749000001204
+  },
+  {
+    "route": "/laptop/1728/panel",
+    "durationMs": 36.81211099999928
+  },
+  {
+    "route": "/laptop/1728/giris",
+    "durationMs": 13.265280999999959
+  },
+  {
+    "route": "/laptop/1728/kayit",
+    "durationMs": 16.23524600000019
+  },
+  {
+    "route": "/laptop/1728/guvence",
+    "durationMs": 30.110838999999032
+  },
+  {
+    "route": "/laptop/1728/tedarikci-ol",
+    "durationMs": 22.51884599999903
+  },
+  {
+    "route": "/laptop/1728/yardim",
+    "durationMs": 19.48088900000039
+  },
+  {
+    "route": "/laptop/1728/hakkimizda",
+    "durationMs": 21.9255430000012
+  },
+  {
+    "route": "/laptop/1728/durumlar",
+    "durationMs": 37.52745900000082
+  },
+  {
+    "route": "/masaustu/1920/ana-sayfa",
+    "durationMs": 76.10217000000011
+  },
+  {
+    "route": "/masaustu/1920/kategoriler",
+    "durationMs": 43.996194000001196
+  },
+  {
+    "route": "/masaustu/1920/arama",
+    "durationMs": 61.06665900000007
+  },
+  {
+    "route": "/masaustu/1920/urun",
+    "durationMs": 41.319171000001006
+  },
+  {
+    "route": "/masaustu/1920/karsilastirma",
+    "durationMs": 17.852908999999272
+  },
+  {
+    "route": "/masaustu/1920/tedarikciler",
+    "durationMs": 21.837344999999914
+  },
+  {
+    "route": "/masaustu/1920/magaza",
+    "durationMs": 28.699156000000585
+  },
+  {
+    "route": "/masaustu/1920/flash",
+    "durationMs": 51.586779999999635
+  },
+  {
+    "route": "/masaustu/1920/teklif-iste",
+    "durationMs": 15.063562000001184
+  },
+  {
+    "route": "/masaustu/1920/teklif-karsilastir",
+    "durationMs": 16.37101799999982
+  },
+  {
+    "route": "/masaustu/1920/sepet",
+    "durationMs": 15.924613000001045
+  },
+  {
+    "route": "/masaustu/1920/odeme",
+    "durationMs": 16.612208999998984
+  },
+  {
+    "route": "/masaustu/1920/siparis",
+    "durationMs": 22.02947099999983
+  },
+  {
+    "route": "/masaustu/1920/mesajlar",
+    "durationMs": 17.615085999999792
+  },
+  {
+    "route": "/masaustu/1920/panel",
+    "durationMs": 34.20073699999921
+  },
+  {
+    "route": "/masaustu/1920/giris",
+    "durationMs": 11.881648000000496
+  },
+  {
+    "route": "/masaustu/1920/kayit",
+    "durationMs": 12.062477999999828
+  },
+  {
+    "route": "/masaustu/1920/guvence",
+    "durationMs": 22.940075999998953
+  },
+  {
+    "route": "/masaustu/1920/tedarikci-ol",
+    "durationMs": 17.53332600000067
+  },
+  {
+    "route": "/masaustu/1920/yardim",
+    "durationMs": 16.995437000001402
+  },
+  {
+    "route": "/masaustu/1920/hakkimizda",
+    "durationMs": 15.532810000000609
+  },
+  {
+    "route": "/masaustu/1920/durumlar",
+    "durationMs": 13.414326000000074
+  },
+  {
+    "route": "/masaustu/2560/ana-sayfa",
+    "durationMs": 69.22565500000019
+  },
+  {
+    "route": "/masaustu/2560/kategoriler",
+    "durationMs": 40.957884000001286
+  },
+  {
+    "route": "/masaustu/2560/arama",
+    "durationMs": 54.33139999999912
+  },
+  {
+    "route": "/masaustu/2560/urun",
+    "durationMs": 39.10717599999953
+  },
+  {
+    "route": "/masaustu/2560/karsilastirma",
+    "durationMs": 15.814699000000473
+  },
+  {
+    "route": "/masaustu/2560/tedarikciler",
+    "durationMs": 19.803063000001202
+  },
+  {
+    "route": "/masaustu/2560/magaza",
+    "durationMs": 26.655166000000463
+  },
+  {
+    "route": "/masaustu/2560/flash",
+    "durationMs": 43.50155999999879
+  },
+  {
+    "route": "/masaustu/2560/teklif-iste",
+    "durationMs": 13.91650699999991
+  },
+  {
+    "route": "/masaustu/2560/teklif-karsilastir",
+    "durationMs": 14.158520999999382
+  },
+  {
+    "route": "/masaustu/2560/sepet",
+    "durationMs": 14.609942999999475
+  },
+  {
+    "route": "/masaustu/2560/odeme",
+    "durationMs": 15.784814000000551
+  },
+  {
+    "route": "/masaustu/2560/siparis",
+    "durationMs": 17.338668999998845
+  },
+  {
+    "route": "/masaustu/2560/mesajlar",
+    "durationMs": 14.685187000000951
+  },
+  {
+    "route": "/masaustu/2560/panel",
+    "durationMs": 30.3215110000001
+  },
+  {
+    "route": "/masaustu/2560/giris",
+    "durationMs": 10.417230000000927
+  },
+  {
+    "route": "/masaustu/2560/kayit",
+    "durationMs": 12.835499999999229
+  },
+  {
+    "route": "/masaustu/2560/guvence",
+    "durationMs": 22.56762499999968
+  },
+  {
+    "route": "/masaustu/2560/tedarikci-ol",
+    "durationMs": 17.54051100000106
+  },
+  {
+    "route": "/masaustu/2560/yardim",
+    "durationMs": 16.50031300000046
+  },
+  {
+    "route": "/masaustu/2560/hakkimizda",
+    "durationMs": 15.262909000000946
+  },
+  {
+    "route": "/masaustu/2560/durumlar",
+    "durationMs": 13.541645999999673
+  },
+  {
+    "route": "/buyuk-ekran/3840/ana-sayfa",
+    "durationMs": 95.36452800000006
+  },
+  {
+    "route": "/buyuk-ekran/3840/kategoriler",
+    "durationMs": 62.07329799999934
+  },
+  {
+    "route": "/buyuk-ekran/3840/arama",
+    "durationMs": 64.33291599999939
+  },
+  {
+    "route": "/buyuk-ekran/3840/urun",
+    "durationMs": 42.18597899999986
+  },
+  {
+    "route": "/buyuk-ekran/3840/karsilastirma",
+    "durationMs": 17.940537000000404
+  },
+  {
+    "route": "/buyuk-ekran/3840/tedarikciler",
+    "durationMs": 23.615303999999014
+  },
+  {
+    "route": "/buyuk-ekran/3840/magaza",
+    "durationMs": 33.26980399999957
+  },
+  {
+    "route": "/buyuk-ekran/3840/flash",
+    "durationMs": 45.157312999999704
+  },
+  {
+    "route": "/buyuk-ekran/3840/teklif-iste",
+    "durationMs": 16.69951300000139
+  },
+  {
+    "route": "/buyuk-ekran/3840/teklif-karsilastir",
+    "durationMs": 15.271038999999291
+  },
+  {
+    "route": "/buyuk-ekran/3840/sepet",
+    "durationMs": 15.51216999999997
+  },
+  {
+    "route": "/buyuk-ekran/3840/odeme",
+    "durationMs": 16.849630000000616
+  },
+  {
+    "route": "/buyuk-ekran/3840/siparis",
+    "durationMs": 17.54554400000052
+  },
+  {
+    "route": "/buyuk-ekran/3840/mesajlar",
+    "durationMs": 15.4069559999989
+  },
+  {
+    "route": "/buyuk-ekran/3840/panel",
+    "durationMs": 30.58194100000037
+  },
+  {
+    "route": "/buyuk-ekran/3840/giris",
+    "durationMs": 10.204609999998866
+  },
+  {
+    "route": "/buyuk-ekran/3840/kayit",
+    "durationMs": 11.952196999998705
+  },
+  {
+    "route": "/buyuk-ekran/3840/guvence",
+    "durationMs": 19.794094999999288
+  },
+  {
+    "route": "/buyuk-ekran/3840/tedarikci-ol",
+    "durationMs": 17.448513999999705
+  },
+  {
+    "route": "/buyuk-ekran/3840/yardim",
+    "durationMs": 16.575378999999884
+  },
+  {
+    "route": "/buyuk-ekran/3840/hakkimizda",
+    "durationMs": 14.85450800000035
+  },
+  {
+    "route": "/buyuk-ekran/3840/durumlar",
+    "durationMs": 13.034150000001318
+  },
+  {
+    "route": "/tv/4k/ana-sayfa",
+    "durationMs": 67.8852369999986
+  },
+  {
+    "route": "/tv/4k/kategoriler",
+    "durationMs": 40.68477300000086
+  },
+  {
+    "route": "/tv/4k/arama",
+    "durationMs": 54.05135800000062
+  },
+  {
+    "route": "/tv/4k/urun",
+    "durationMs": 34.86641000000054
+  },
+  {
+    "route": "/tv/4k/karsilastirma",
+    "durationMs": 13.294577000000572
+  },
+  {
+    "route": "/tv/4k/tedarikciler",
+    "durationMs": 16.88521099999889
+  },
+  {
+    "route": "/tv/4k/magaza",
+    "durationMs": 23.21904100000029
+  },
+  {
+    "route": "/tv/4k/flash",
+    "durationMs": 42.03067200000078
+  },
+  {
+    "route": "/tv/4k/teklif-iste",
+    "durationMs": 10.40931400000045
+  },
+  {
+    "route": "/tv/4k/teklif-karsilastir",
+    "durationMs": 11.18092500000057
+  },
+  {
+    "route": "/tv/4k/sepet",
+    "durationMs": 10.830424000001585
+  },
+  {
+    "route": "/tv/4k/odeme",
+    "durationMs": 6.0323110000008455
+  },
+  {
+    "route": "/tv/4k/siparis",
+    "durationMs": 13.20564800000102
+  },
+  {
+    "route": "/tv/4k/mesajlar",
+    "durationMs": 11.010361000000557
+  },
+  {
+    "route": "/tv/4k/panel",
+    "durationMs": 26.411762000001545
+  },
+  {
+    "route": "/tv/4k/giris",
+    "durationMs": 5.389237000001231
+  },
+  {
+    "route": "/tv/4k/kayit",
+    "durationMs": 7.713062000000718
+  },
+  {
+    "route": "/tv/4k/guvence",
+    "durationMs": 16.312025999999605
+  },
+  {
+    "route": "/tv/4k/tedarikci-ol",
+    "durationMs": 13.237411000000066
+  },
+  {
+    "route": "/tv/4k/yardim",
+    "durationMs": 12.410201999999117
+  },
+  {
+    "route": "/tv/4k/hakkimizda",
+    "durationMs": 10.470210999999836
+  },
+  {
+    "route": "/tv/4k/durumlar",
+    "durationMs": 8.601380000000063
+  }
+]

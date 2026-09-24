@@ -1,0 +1,372 @@
+[
+  {
+    "cluster": "mobil-dikey",
+    "screen": "320",
+    "page": "ana-sayfa",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "320",
+    "page": "kategoriler",
+    "violations": [],
+    "incomplete": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "320",
+    "page": "arama",
+    "violations": [],
+    "incomplete": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "320",
+    "page": "urun",
+    "violations": [],
+    "incomplete": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "320",
+    "page": "karsilastirma",
+    "violations": [],
+    "incomplete": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "320",
+    "page": "tedarikciler",
+    "violations": [],
+    "incomplete": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "320",
+    "page": "magaza",
+    "violations": [],
+    "incomplete": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "320",
+    "page": "flash",
+    "violations": [],
+    "incomplete": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "320",
+    "page": "teklif-iste",
+    "violations": [],
+    "incomplete": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "320",
+    "page": "teklif-karsilastir",
+    "violations": [],
+    "incomplete": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "320",
+    "page": "sepet",
+    "violations": [],
+    "incomplete": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "320",
+    "page": "odeme",
+    "violations": [],
+    "incomplete": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "320",
+    "page": "siparis",
+    "violations": [],
+    "incomplete": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "320",
+    "page": "mesajlar",
+    "violations": [],
+    "incomplete": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "320",
+    "page": "panel",
+    "violations": [],
+    "incomplete": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "320",
+    "page": "giris",
+    "violations": [],
+    "incomplete": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "320",
+    "page": "kayit",
+    "violations": [],
+    "incomplete": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "320",
+    "page": "guvence",
+    "violations": [],
+    "incomplete": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "320",
+    "page": "tedarikci-ol",
+    "violations": [],
+    "incomplete": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "320",
+    "page": "yardim",
+    "violations": [],
+    "incomplete": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "320",
+    "page": "hakkimizda",
+    "violations": [],
+    "incomplete": []
+  },
+  {
+    "cluster": "mobil-dikey",
+    "screen": "320",
+    "page": "durumlar",
+    "violations": [],
+    "incomplete": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1440",
+    "page": "ana-sayfa",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1440",
+    "page": "kategoriler",
+    "violations": [],
+    "incomplete": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1440",
+    "page": "arama",
+    "violations": [],
+    "incomplete": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1440",
+    "page": "urun",
+    "violations": [],
+    "incomplete": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1440",
+    "page": "karsilastirma",
+    "violations": [],
+    "incomplete": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1440",
+    "page": "tedarikciler",
+    "violations": [],
+    "incomplete": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1440",
+    "page": "magaza",
+    "violations": [],
+    "incomplete": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1440",
+    "page": "flash",
+    "violations": [],
+    "incomplete": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1440",
+    "page": "teklif-iste",
+    "violations": [],
+    "incomplete": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1440",
+    "page": "teklif-karsilastir",
+    "violations": [],
+    "incomplete": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1440",
+    "page": "sepet",
+    "violations": [],
+    "incomplete": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1440",
+    "page": "odeme",
+    "violations": [],
+    "incomplete": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1440",
+    "page": "siparis",
+    "violations": [],
+    "incomplete": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1440",
+    "page": "mesajlar",
+    "violations": [],
+    "incomplete": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1440",
+    "page": "panel",
+    "violations": [],
+    "incomplete": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1440",
+    "page": "giris",
+    "violations": [],
+    "incomplete": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1440",
+    "page": "kayit",
+    "violations": [],
+    "incomplete": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1440",
+    "page": "guvence",
+    "violations": [],
+    "incomplete": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1440",
+    "page": "tedarikci-ol",
+    "violations": [],
+    "incomplete": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1440",
+    "page": "yardim",
+    "violations": [],
+    "incomplete": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1440",
+    "page": "hakkimizda",
+    "violations": [],
+    "incomplete": []
+  },
+  {
+    "cluster": "laptop",
+    "screen": "1440",
+    "page": "durumlar",
+    "violations": [],
+    "incomplete": []
+  },
+  {
+    "cluster": "tv",
+    "screen": "4k",
+    "page": "ana-sayfa",
+    "violations": [],
+    "incomplete": [
+      {
+        "id": "color-contrast",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "cluster": "tv",
+    "screen": "4k",
+    "page": "teklif-iste",
+    "violations": [],
+    "incomplete": [],
+    "qr": "https://karacaismail.github.io/arasta-open-pencil/mobil-dikey/390/teklif-iste.html"
+  },
+  {
+    "cluster": "tv",
+    "screen": "4k",
+    "page": "odeme",
+    "violations": [],
+    "incomplete": [],
+    "qr": "https://karacaismail.github.io/arasta-open-pencil/mobil-dikey/390/odeme.html"
+  },
+  {
+    "cluster": "tv",
+    "screen": "4k",
+    "page": "mesajlar",
+    "violations": [],
+    "incomplete": [],
+    "qr": "https://karacaismail.github.io/arasta-open-pencil/mobil-dikey/390/mesajlar.html"
+  },
+  {
+    "cluster": "tv",
+    "screen": "4k",
+    "page": "giris",
+    "violations": [],
+    "incomplete": [],
+    "qr": "https://karacaismail.github.io/arasta-open-pencil/mobil-dikey/390/giris.html"
+  },
+  {
+    "cluster": "tv",
+    "screen": "4k",
+    "page": "kayit",
+    "violations": [],
+    "incomplete": [],
+    "qr": "https://karacaismail.github.io/arasta-open-pencil/mobil-dikey/390/kayit.html"
+  }
+]

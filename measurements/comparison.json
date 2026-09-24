@@ -1,0 +1,126 @@
+{
+  "reference": "https://karacaismail.github.io/arasta-penpot-mcp/",
+  "method": "Penpot column quotes expectations/examples from the supplied brief; no fresh comparative Penpot benchmark or copied source assets.",
+  "dimensions": [
+    {
+      "dimension": "Kurulum",
+      "penpot": "Penpot sunucusu + MCP",
+      "openPencil": "Mevcut Colima imajı, ayrı Linux CLI worker; servis restart yok",
+      "status": "UYUM"
+    },
+    {
+      "dimension": "Bağlantı",
+      "penpot": "MCP bağlantısı",
+      "openPencil": "Dosya tabanlı CLI; web editörü ayrıca açılış için doğrulandı",
+      "status": "UYUM"
+    },
+    {
+      "dimension": "Arka plan",
+      "penpot": "Briefte gizli sekme heartbeat kaybı örneği",
+      "openPencil": "CLI sekme/masaüstü odağı istemiyor; MCP heartbeat yeniden test edilmedi",
+      "status": "KISMİ"
+    },
+    {
+      "dimension": "Ölçek",
+      "penpot": "22×22 ve ~600 hedefi",
+      "openPencil": "484 ekran / 104058 düğüm; 7542 master",
+      "status": "KISMİ"
+    },
+    {
+      "dimension": "Master / örnek",
+      "penpot": "Ana bileşen yayılımı beklentisi",
+      "openPencil": "976/976 miras, önce override temizliği gerekti",
+      "status": "KISMİ"
+    },
+    {
+      "dimension": "Varyant",
+      "penpot": "Briefte grupta tek component listeleme örneği",
+      "openPencil": "Gerçek COMPONENT_SET + 480 durum matrisi; tam Figma property parity yok",
+      "status": "KISMİ"
+    },
+    {
+      "dimension": "Vektör / ikon",
+      "penpot": "Native Phosphor path şartı",
+      "openPencil": "Göreli path komutları kabul edilmedi; mutlak komutlara çevrildi",
+      "status": "KISMİ"
+    },
+    {
+      "dimension": "Auto layout",
+      "penpot": "Briefte hug/fill çökmesi ve resize yan etkisi",
+      "openPencil": "FIG iç içe override kaybı; font ölçümü + ölçülü master ile onarıldı",
+      "status": "DİRENÇ"
+    },
+    {
+      "dimension": "Token / tema",
+      "penpot": "Light/Dark, 8 cihaz",
+      "openPencil": "125 native variable; 4 koleksiyon; renk, cihaz, foundation, typography",
+      "status": "UYUM"
+    },
+    {
+      "dimension": "Font",
+      "penpot": "Briefte fuzzy font lookup örneği",
+      "openPencil": "Roboto / Mono hazırlandı; font measurer yüklenmeden metin ölçüsü güvenilir değil",
+      "status": "KISMİ"
+    },
+    {
+      "dimension": "Kod export",
+      "penpot": "Statik frontend hedefi",
+      "openPencil": "Native JSX/Tailwind görünümü taşır, HTML semantiği elle eşlendi",
+      "status": "KISMİ"
+    },
+    {
+      "dimension": "Native round trip",
+      "penpot": "Bu koşuda Penpot round trip ölçülmedi",
+      "openPencil": "OpenPencil hash 484/484; Figma uygulaması doğrulanmadı",
+      "status": "KISMİ"
+    },
+    {
+      "dimension": "Git farkları",
+      "penpot": "JSON tabanlı veri karşılaştırması beklentisi",
+      "openPencil": "FIG binary; projection.json ve authoring JS metin olarak diff edilebilir",
+      "status": "KISMİ"
+    },
+    {
+      "dimension": "XPath / lint",
+      "penpot": "Adlandırma, layout, erişilebilirlik auditleri",
+      "openPencil": "XPath çalıştı; strict lint 0 error, çok sayıda warning",
+      "status": "KISMİ"
+    },
+    {
+      "dimension": "Batch sınırı",
+      "penpot": "Brief örneği: 100KB gövde",
+      "openPencil": "CLI 6.035.498 bayt başarılı; MCP gövde sınırı ölçülmedi",
+      "status": "KISMİ"
+    },
+    {
+      "dimension": "Timeout / iptal",
+      "penpot": "Brief örneği: 120sn, iptal yok",
+      "openPencil": "Native CLI süreci kontrol edilebilir; MCP cancellation/queue canlı test yok",
+      "status": "KISMİ"
+    },
+    {
+      "dimension": "Gizli çalışma",
+      "penpot": "Brief örneği: hidden-tab kopması",
+      "openPencil": "Linux headless tasarım ve QA; kullanıcının masaüstü kullanılmadı",
+      "status": "UYUM"
+    },
+    {
+      "dimension": "Dosya adı",
+      "penpot": "Brief örneği: yeniden adlandıramama",
+      "openPencil": "CLI çıktı dosya yolu seçilebiliyor; arasta.fig kaydedildi",
+      "status": "UYUM"
+    },
+    {
+      "dimension": "Hata açıklığı",
+      "penpot": "Brief örnekleri: boş metin/font hataları",
+      "openPencil": "Açık path/import hataları; stdout kesilmesi exit 0 ile geldi",
+      "status": "DİRENÇ"
+    },
+    {
+      "dimension": "Teslim ve semantik",
+      "penpot": "484 URL + viewer + erişilebilirlik",
+      "openPencil": "484 HTML, canlı iframe/hash, QA ve açık sınırlamalar",
+      "status": "UYUM"
+    }
+  ]
+}

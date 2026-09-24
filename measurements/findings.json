@@ -1,0 +1,134 @@
+[
+  {
+    "status": "UYUM",
+    "title": "Yerel üretim",
+    "finding": "Boş belgeye OpenPencil 0.15.1 CLI / Figma API ile çizildi. PNG, SVG, HTML veya başka tasarım dosyası içe aktarılmadı. Phosphor path verisi native vectorPaths alanına yazıldı.",
+    "evidence": "design/authoring/round2.js"
+  },
+  {
+    "status": "UYUM",
+    "title": "320 önce",
+    "finding": "İlk Git aşaması yalnızca 320×480 ana sayfa, temel tokenlar ve kütüphanedir. Sonra 22 sayfa × 22 ekran üretildi.",
+    "evidence": "measurements/first-checkpoint.json"
+  },
+  {
+    "status": "UYUM",
+    "title": "Ailelere özel düzen",
+    "finding": "8 aile; telefon alt navigasyonu, yatay telefon 96px rayı, tablet üst menüsü, masaüstü menüsü ve TV düzeni ayrı kuruldu.",
+    "evidence": "web/catalog.json"
+  },
+  {
+    "status": "UYUM",
+    "title": "Native ekran denetimi",
+    "finding": "484 ekran: 0 font/radius/taşma/çökmüş katman/hedef/metin kontrastı sorunu; 46783/46783 solid fill değişkene bağlı. Gradyanlar iki uçta kontrol edildi. Bu test bütün WCAG ölçütlerinin insan denetiminin yerini almaz.",
+    "evidence": "measurements/native-audit-final-summary.json"
+  },
+  {
+    "status": "DİRENÇ",
+    "title": "İç içe örnek geometri kaybı",
+    "finding": ".fig kaydet/aç işleminde örnek boyut geçersiz kılmaları master boyutuna dönüyordu. İlk genişletmede 12.467 yatay taşma ve 1.122 çökmüş katman saptandı. Yerel font ölçümü ve ölçüye özel gerçek master varyantları ile çözüldü; yaklaşık 600 bileşen hedefi aşıldı.",
+    "evidence": "measurements/adaptive-variants.json"
+  },
+  {
+    "status": "KISMİ",
+    "title": "Bileşen ölçeği",
+    "finding": "7542 master, 26920 örnek, 153 gerçek COMPONENT_SET. 480 ek kontrol durumu matrisi var. Ölçüye özel master yaklaşımı görsel doğruluğu sağlıyor ancak kütüphane bakım maliyetini artırıyor.",
+    "evidence": "measurements/state-library.json"
+  },
+  {
+    "status": "UYUM",
+    "title": "Üçüncü tur: master yayılımı",
+    "finding": "664 ProductCard masterında border.subtle → border.default. .fig içe alımından kalan 976 binding override temizlendikten sonra syncInstances çalıştırıldı. Örneklerde tek tek renk değeri yazılmadı. Yeniden açılışta 976/976 örnek doğru tokenı miras alıyor.",
+    "evidence": "measurements/master-round3.json"
+  },
+  {
+    "status": "KISMİ",
+    "title": "Varyant ve swap API",
+    "finding": "108 nested ikon slotuna 12 component adayı bağlandı. Gerçek varyant setleri kullanılabildi; Figma’daki tüm property/variant düzenleme davranışlarıyla tam eşdeğerlik iddia edilmiyor.",
+    "evidence": "measurements/native-export-evidence.json"
+  },
+  {
+    "status": "UYUM",
+    "title": "Token dışa aktarımı",
+    "finding": "design_to_tokens aracı 125 değişkeni CSS, Tailwind tema ve JSON olarak verdi. CSS sınıf seçicileri data-theme/data-fam biçimine çevrildi; semantik adlar koleksiyon öneklerine alias oldu.",
+    "evidence": "design/exports/tokens.css"
+  },
+  {
+    "status": "KISMİ",
+    "title": "Gradyan tema bağı",
+    "finding": "Native gradyan renk durakları solid fill gibi değişkene bağlanmadı. Hero duraklarının semantik isimleri native pluginData içinde saklandı; TV değerleri native dosyada çözüldü, webde CSS değişkenlerine çevrildi.",
+    "evidence": "measurements/visual-fixes.json"
+  },
+  {
+    "status": "DİRENÇ",
+    "title": "Lint uyarıları",
+    "finding": "Strict lint: 0 error, 77,876 warning. no-deeply-nested, pixel-perfect, no-detached-instances ve sembolleri de sayan touch-target-size öne çıkıyor. Ham sonuç sıkıştırılmış halde duruyor; lint temiz denmiyor.",
+    "evidence": "measurements/native-audit-final.json.gz"
+  },
+  {
+    "status": "UYUM",
+    "title": "XPath",
+    "finding": "//TEXT[@fontSize < 16] sorgusu boş döndü. Frame kontrolleri ve strict linter ayrıca çalıştırıldı.",
+    "evidence": "measurements/xpath-small-text.json"
+  },
+  {
+    "status": "KISMİ",
+    "title": "FIG round trip",
+    "finding": "OpenPencil → FIG → OpenPencil için 484/484 ekranın geometri, metin, renk ve bileşen referans adı hash’i aynı. Çıktı 1420 editöründe Linux Chromium ile açıldı. Figma uygulamasında açılış bu çalışmada doğrulanmadı.",
+    "evidence": "measurements/roundtrip-after.json"
+  },
+  {
+    "status": "KISMİ",
+    "title": "JSX/Tailwind aktarımı",
+    "finding": "Native JSX export görünür metni ve stilleri aktarıyor, ancak h1 yerine p, link/button yerine div, form alanı yerine metin üretiyor. 320 ve 1440 örnekleri saklandı. Web, native graph projeksiyonundan semantik etiketlerle üretildi; otomatik JSX olduğu gibi yayınlanmadı.",
+    "evidence": "design/exports/mobil-dikey-320-ana-sayfa.tsx"
+  },
+  {
+    "status": "KISMİ",
+    "title": "Görsel eşleşme",
+    "finding": "7 gerçek genişlikte ekran görüntüsü incelendi. Native ve web düzeni aynı belgeyi izliyor; browser form kontrolü ölçüsü, gradient rasterizasyonu ve aktif/focus durumları birebir piksel eşitliği sağlamıyor.",
+    "evidence": "measurements/screenshots/"
+  },
+  {
+    "status": "UYUM",
+    "title": "Web kalite kontrolü",
+    "finding": "484/484 ekran geçiyor; tam bir h1, etiketli alanlar, en az 16px yazı, en fazla 12px radius, sıfır yatay taşma. 50 axe sayfasında 0 ihlal sayfası; gradyan gibi axe incomplete sonuçları insan incelemesiyle ayrıca ele alındı.",
+    "evidence": "measurements/web-qa-final.json"
+  },
+  {
+    "status": "UYUM",
+    "title": "Etkileşim ve TV",
+    "finding": "17/17 senaryo: miktar/kademe/landed cost, sepet, filtre, karşılaştırma, komut menüsü, tema, kayıt, RFQ, mesaj, parola, viewer geçmişi ve TV D-pad. Beş QR doğru telefon sayfasına çözülüyor. Oturumdaki karşılaştırma çubuğunun TV düğmesini örtmesi düzeltildi.",
+    "evidence": "measurements/interactions.json"
+  },
+  {
+    "status": "KISMİ",
+    "title": "Kimlik ve işlem kapsamı",
+    "finding": "AI, şirket doğrulama, kimlik girişi, mesaj ve ödeme akışları etkileşimli prototiptir. Gerçek hesap, banka, tedarikçi, AI sağlayıcısı veya ödeme servisine bağlı değildir.",
+    "evidence": "web/assets/app.js"
+  },
+  {
+    "status": "UYUM",
+    "title": "CLI toplu üretim",
+    "finding": "En büyük başarılı eval gövdesi 6,035,498 bayt. 484 ekran tek native API programında oluşturuldu. Bu sonuç MCP HTTP gövde sınırı ölçümü değildir.",
+    "evidence": "measurements/calls.jsonl"
+  },
+  {
+    "status": "DİRENÇ",
+    "title": "CLI sonuç kesilmesi",
+    "finding": "Büyük JSON stdout çıktısı 196.608 baytta kesildiği halde süreç başarılı döndü. Büyük sonuçlar eval içinden Bun.write ile dosyaya yazılarak alındı.",
+    "evidence": "measurements/calls.jsonl"
+  },
+  {
+    "status": "KISMİ",
+    "title": "MCP limitleri ve iptal",
+    "finding": "Bu koşu dosya tabanlı CLI kullandı. MCP batch gövdesi, iptal ve hidden-tab heartbeat canlı ölçülmedi. Yerel 0.15.1 kaynak incelemesi: 900.000 bayt sonuç bütçesi; browser RPC 20sn, bridge 35sn zaman aşımı. Bunlar CLI sınırı değildir.",
+    "evidence": "https://github.com/open-pencil/open-pencil/tree/main/packages/mcp"
+  },
+  {
+    "status": "KISMİ",
+    "title": "Çağrı günlüğü",
+    "finding": "calls.jsonl zaman ölçümü eklenmiş native CLI çağrılarını ve son web sayfa auditlerini içerir. İlk keşif, dosya kopyalama, Git ve kurulum komutları bu gecikme veri kümesine dahil değildir; geriye dönük süre uydurulmadı.",
+    "evidence": "measurements/calls.jsonl"
+  }
+]

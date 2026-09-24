@@ -1,0 +1,81 @@
+{
+  "tokenResults": [
+    {
+      "format": "css",
+      "tokenCount": 125,
+      "modeCount": 12
+    },
+    {
+      "format": "tailwind",
+      "tokenCount": 125,
+      "modeCount": 12
+    },
+    {
+      "format": "json",
+      "tokenCount": 125,
+      "modeCount": 12
+    }
+  ],
+  "rendered": [
+    {
+      "route": "mobil-dikey/320/ana-sayfa",
+      "file": "native-mobil-dikey-320-ana-sayfa.png",
+      "bytes": 40992,
+      "durationMs": 2965.964693
+    },
+    {
+      "route": "mobil-dikey/390/ana-sayfa",
+      "file": "native-mobil-dikey-390-ana-sayfa.png",
+      "bytes": 63640,
+      "durationMs": 1524.8791730000012
+    },
+    {
+      "route": "mobil-yatay/844/ana-sayfa",
+      "file": "native-mobil-yatay-844-ana-sayfa.png",
+      "bytes": 48877,
+      "durationMs": 1213.0484720000004
+    },
+    {
+      "route": "tablet-dikey/768/ana-sayfa",
+      "file": "native-tablet-dikey-768-ana-sayfa.png",
+      "bytes": 121835,
+      "durationMs": 2217.2514459999984
+    },
+    {
+      "route": "laptop/1440/ana-sayfa",
+      "file": "native-laptop-1440-ana-sayfa.png",
+      "bytes": 137971,
+      "durationMs": 2414.6512220000004
+    },
+    {
+      "route": "masaustu/2560/ana-sayfa",
+      "file": "native-masaustu-2560-ana-sayfa.png",
+      "bytes": 243787,
+      "durationMs": 1223.5089170000028
+    },
+    {
+      "route": "tv/4k/ana-sayfa",
+      "file": "native-tv-4k-ana-sayfa.png",
+      "bytes": 183115,
+      "durationMs": 654.6008180000026
+    },
+    {
+      "route": "mobil-dikey/320/panel",
+      "file": "native-mobil-dikey-320-panel.png",
+      "bytes": 36096,
+      "durationMs": 1471.4137569999984
+    },
+    {
+      "route": "tv/4k/odeme",
+      "file": "native-tv-4k-odeme.png",
+      "bytes": 99433,
+      "durationMs": 784.0411370000002
+    }
+  ],
+  "masterRoundtrip": {
+    "masters": 664,
+    "instances": 976,
+    "passing": 976
+  },
+  "figmaDesktopTested": false
+}

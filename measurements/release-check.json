@@ -1,0 +1,11 @@
+{
+  "internalLinksChecked": 14160,
+  "brokenInternalLinks": [],
+  "textFilesScanned": 1116,
+  "historicalBlobsScanned": 6,
+  "secretOrAddressMatches": [],
+  "historyMatches": [],
+  "invalidGitIdentities": 0,
+  "binaryCoverage": "PNG/font/FIG binary payloads are not regex decoded; their authored sources and projection are scanned.",
+  "nativeSHA256": "0c0adbaf7b8e3d7b71abea0efb516efe8594d8c7a93489f6149eddfd99bb89a6"
+}

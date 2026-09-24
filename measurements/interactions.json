@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Quantity, pricing tier and landed cost",
+    "success": true
+  },
+  {
+    "name": "Add to cart persists local quantity",
+    "success": true
+  },
+  {
+    "name": "Comparison tray and selection",
+    "success": true
+  },
+  {
+    "name": "Phone filter sheet works",
+    "success": true
+  },
+  {
+    "name": "Command palette navigation",
+    "success": true
+  },
+  {
+    "name": "FAQ keyboard disclosure",
+    "success": true
+  },
+  {
+    "name": "Theme toggle",
+    "success": true
+  },
+  {
+    "name": "VKN validation and saved company fill",
+    "success": true
+  },
+  {
+    "name": "RFQ mock draft",
+    "success": true
+  },
+  {
+    "name": "Message submit and translation",
+    "success": true
+  },
+  {
+    "name": "Accessible password reveal",
+    "success": true
+  },
+  {
+    "name": "Viewer device selection, live iframe, hash and history",
+    "success": true
+  },
+  {
+    "name": "Viewer responsive dropdown at 600",
+    "success": true
+  },
+  {
+    "name": "TV initial focus, arrows, dark mode and handoff",
+    "success": true
+  },
+  {
+    "name": "Desktop category mega menu",
+    "success": true
+  },
+  {
+    "name": "TV handoff button opens matching phone page",
+    "success": true
+  },
+  {
+    "name": "Standalone device controls and large-screen fit",
+    "success": true
+  }
+]

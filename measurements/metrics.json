@@ -1,0 +1,42 @@
+{
+  "scope": "Native CLI calls since instrumentation; final Playwright page audits when available. Setup/discovery commands were not retroactively timed.",
+  "calls": 559,
+  "nativeCalls": 75,
+  "successfulCalls": 556,
+  "successRate": 99.46,
+  "nativeSuccessRate": 96.0,
+  "largestNativeRequestBytes": 6035498,
+  "nativeCallP50Ms": 8786.02,
+  "nativeCallP95Ms": 22215.59,
+  "frameAuthoringP50Ms": 16.4,
+  "frameAuthoringP95Ms": 52.76,
+  "frameAuthoringDefinition": "In-process native API frame creation and layout; excludes file load/save, fonts and final canonicalization.",
+  "writeCallP50Ms": 11350.64,
+  "screens": 484,
+  "nodes": 104058,
+  "components": 7542,
+  "componentSets": 153,
+  "instances": 26920,
+  "variables": 125,
+  "nativeFileBytes": 2310508,
+  "nativeSHA256": "0c0adbaf7b8e3d7b71abea0efb516efe8594d8c7a93489f6149eddfd99bb89a6",
+  "roundtripIdenticalScreenHashes": 484,
+  "figmaDesktopVerified": false,
+  "webScreensAudited": 484,
+  "webScreensPassed": 484,
+  "axePages": 50,
+  "axeViolationPages": 0,
+  "qrDecoded": 5,
+  "interactionsPassed": 17,
+  "interactionsTotal": 17,
+  "lint": {
+    "errorCount": 0,
+    "warningCount": 77876,
+    "infoCount": 0
+  },
+  "errorTypes": [
+    "✗ Invalid vector path: Unsupported path command l",
+    "✗ ResolveMessage: Cannot find package 'svgpath' from '/workspace/open-pencil/packages/cli/src/commands/eval.ts'",
+    "✗ undefined is not an object (evaluating 'n.children[0].children')"
+  ]
+}

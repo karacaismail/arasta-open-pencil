@@ -1,0 +1,23 @@
+{
+  "frames": 484,
+  "issues": 0,
+  "solidFills": 46783,
+  "boundFills": 46783,
+  "lint": {
+    "errorCount": 0,
+    "warningCount": 77876,
+    "infoCount": 0
+  },
+  "lintRules": {
+    "pixel-perfect": 28788,
+    "touch-target-size": 4836,
+    "prefer-auto-layout": 597,
+    "no-detached-instances": 3938,
+    "no-deeply-nested": 38765,
+    "consistent-spacing": 198,
+    "effect-style-required": 22,
+    "no-default-names": 396,
+    "no-empty-frames": 304,
+    "consistent-radius": 32
+  }
+}
